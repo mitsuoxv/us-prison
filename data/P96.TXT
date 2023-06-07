@@ -1,0 +1,1946 @@
+U.S. Department of Justice 
+Office of Justice Programs 
+Bureau of Justice Statistics
+
+Bulletin
+
+Prisoners in 1996
+
+June 1997, NCJ-164619
+
+This report is one in a series.  
+More recent editions may be available.  
+To view a list of all in the series go to 
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#Prisoners
+
+The full text of this report is available through: 
+* the BJS Clearinghouse, 1-800-732-3277 
+* on the Internet at http://www.ojp.usdoj.gov/bjs/
+* on the BJS gopher: gopher://www.ojp.usdoj.gov:70/11/bjs/
+* on the National Criminal Justice Reference Service Electronic
+Bulletin Board (set at 8-N-1, call 301-738-8895, select BJS).
+
+***************
+Highlights
+***************
+
+                          	 Sentenced prisoners   	Population housed as 
+                          	 per 100,000 resident  	a percent of highest
+        Number of inmates 	 population            	capacity
+        ----------------- 	 -------------------- 	-------------------
+Year    Federal      State       Federal   State       Federal    State
+-----------------------------------------------------------------------------
+1985 	40,223    462,284        14       187   	 123%         105%
+1990	65,526    708,393        20       272   	 151          115
+1991 	71,608    753,951        22       287   	 146          116
+1992 	80,259    802,241        26       305   	 137          118
+1993 	89,587    880,857        29       330   	 136          118
+1994	95,034    959668         30       356   	 125          117
+1995	100250    1026043        32       379   	 126          114
+1996	105544    1076625        33       394    	 125          116
+
+*During 1996 the number of female prisoners rose by 9.1%, nearly
+double the increase of male prisoners (4.7%).  At yearend 74,730
+women were in State or Federal prison--6.3% of inmates.
+
+*On December 31,1996, State prisons were operating at between
+16% and 24% above capacity, while Federal prisons were operating
+at 25% over capacity.
+
+*California (147,712), Texas (132,383), and the Federal system
+(105,544) together held 1 in every 3 prisoners in the Nation. 
+Fifteen States, each holding fewer than 5,000 inmates, together
+held only 3% of the Nation's prisoners.
+
+*The prison population of 12 States grew by at least 10% in
+1996, led by North Dakota (18.8%) and New Mexico (15.8%). 
+Vermont (down 12.0%), the District of Columbia (-4.3%), and
+Florida (-0.2%) recorded declines.
+
+* Factors underlying the growth in State prison population
+between 1985 and 1995 include--
+
+--a 12.2% average annual increase in the number of Hispanic
+inmates,  higher than among blacks (9.4%) and whites (7.6%).
+
+--a 91% rise in the number of admissions from 1985 to 1990 and a
+13% rise from 1990 to 1995.
+
+--a decline in annual release rates of prisoners from 37% in
+1990 to 31% in 1995.
+
+--a sharp rise in violent offenders among white inmates
+(accounting for 42% of the 10-year increase in white prisoners)
+and in drug offenders among black inmates (42% of their
+increase).
+
+--an overall increase in the percent held for drug offenses
+offset by declines in violent and property  percentages.
+
+
+*****************
+Prisoners in 1996
+*****************
+
+By Christopher J. Mumola
+and Allen J. Beck, Ph.D.
+BJS Statisticians
+
+The total number of prisoners under the jurisdiction of Federal
+or State  adult correctional authorities was 1,182,169 at
+yearend 1996.  During the year the States and the District of
+Columbia added 50,582 prisoners, and the Federal prison system
+added 5,294 prisoners.  Overall, the Nation's prison population
+grew by 5.0%, which was less than the average annual growth rate
+of 7.3% recorded since 1990.  The 1996 increase was the
+equivalent of 1,075  more inmates per week. 
+
+At midyear 1996 (the latest available data), more than 1.6
+million U.S residents were incarcerated.  State and Federal
+prisons housed about two-thirds of  the incarcerated population
+(1,112,448).  Jails, which are locally operated and typically
+hold persons awaiting trial and those with sentences of a year
+or less, held the other third (518,492).  
+
+Relative to the number of U.S. residents, the rate of
+incarceration in prisons at  yearend 1996 totaled 427 sentenced
+inmates per 100,000 residents--up from 292 in 1990.  On December
+31, 1996, 1 in every 118 men and 1 in every 1,818 women were
+under the jurisdiction of State or Federal correctional
+authorities.
+
+-------------------------------------------------------------------
+Table 1. Number of persons held in State or Federal prisons
+or in local jails, 1985, 1990-96
+     
+                       
+                        Number of State  
+                        and Federal             Inmates 
+                        prisoners               held
+           Total        on December 31          in local   Incar- 
+           inmates     -----------------------  jails  	   ceration
+Year       in custody  Jurisdiction/a Custody   on June 3  rate/b
+---------------------------------------------------------------------
+ 
+1985       744208    	 502,507     487,593      256615    313
+1990      1148702     	 773,919     743,382      405320    461
+1991      1219014    	 825,559     792,535      426479    483
+1992      1295150    	 882,500     850,566      444584    508
+1993      970,444    	 970,444     909,381      459804    531
+1994      1476621    	 1054702      990147      486474    567
+1995      1585589      1,126,293   1,078,545      507044    601
+1996      
+June 30   1,630,940    1,164,356   1,112,448      518492    615
+December 31    --      1,182,169 	 --       --         --
+                                             
+Annual average                                         
+increase,                                         
+12/31/85-
+6/30/96       7.8%         8.3%       8.2%      6.9%       
+12/31/90-
+6/30/96       6.6%    	   7.7%       7.6%      4.6%       
+*******************************************************************                                           
+Note: Jail counts are for midyear (June 30).  Counts for 1994-96 
+exclude persons who were supervised outside of a jail facility.  
+State and Federal prisoner counts for 1985 and 1990-95 are for 
+December 31.
+-- Not available.
+a/Includes prisoners in custody, prisoners in local jails because of 
+prison crowding,and prisoners supervised elsewhere, such as treatment 
+centers.
+b/Total of persons in custody of State, Federal, or local
+jurisdictions per 100,000 U.S. residents.
+______________________________________________________________________
+
+*On average, the Nation's incarcerated population grew by 7.8%
+each year since 1985.  During this period, the State and Federal
+prison population grew by 8.2% annually, while the local jail population 
+increased by 6.9% each year.
+
+*At yearend 1985, 1 in every 319 U.S. residents were
+incarcerated; by midyear 1996, that rate grew to 1 in every 163.
+
+*Since 1990 correctional authorities have had to find beds for an 
+additional 482,238 inmates, or about 1,700 new inmates each week.
+
+*Since 1985 the Nation's prisons have added space for 428,240 
+inmates (highest capacity) and local jails have added space for 
+289,190.  By 1996 State prisons were at 17% above their highest 
+capacity and jails at 8% below their rated capacity.
+
+************************************* 
+The population of State and Federal 
+prisons rose 5.0% during 1996
+************************************
+
+The 1996 growth rate of 5.0% was smaller than the percentage
+increase recorded during 1995 (6.8%) and below the average
+annual growth rate since 1985 (8.1%).  In absolute numbers, the
+total prison population increase of 55,876 prison inmates was
+the second lowest of the 1990's, after the 1991 increase of
+51,640). In contrast, the prison population grew by 71,591
+inmates during 1995.
+
+-------------------------------------------------------------
+Table 2. Changes in the State and Federal prison  populations, 
+1985-96
+--------------------------------------------------------------
+
+                       Annual increase
+                    --------------------
+          Number                   Percent
+Year      of inmates     Number    change
+-------------------------------------------
+1985       502,507      40,505        8.8%
+1986       544,972      42,465        8.5
+1987       585,084      40,112        7.4
+1988       627,600      42,516        7.3
+1989       712,364      84,764       13.5
+1990       773,919      61,555        8.6
+1991       825,559      51,640        6.7
+1992       882,500      56,941        6.9
+1993*      970,444       4,992        7.4
+1994     1,054,702      84,258        8.7
+1995     1,126,293      71,591        6.8
+1996     1,182,169      55,876        5.0
+               
+Average 1985-96         58,101        8.1%
+annual  1990-96         63,836        7.3
+increase  
+
+*******************************************************************             
+Note:  All counts are for December 31 of each year and may
+reflect revisions of previously reported numbers.
+--Not applicable.
+*Includes the jurisdiction populations of Massachusetts and
+Texas for the first time.  The final 1993 count (947,492), which 
+excludes the noncustody population in Texas and Massachusetts,
+may be used for comparisons.
+_____________________________________________________________________
+
+
+Prisoners with a sentence of more than 1 year ("sentenced
+prisoners") accounted for 96% of the total prison population at
+yearend, growing by 4.9% during 1996 ). The remaining prisoners
+had sentences of a year or less, or were currently unsentenced
+(that is, awaiting trial in States with combined prison-jail
+systems).
+
+****************************************************************
+Table 3. Prisoners under the jurisdiction of State or Federal 
+correctional authorities, by region and jurisdiction, yearend 
+1995 and 1996
+-----------------------------------------------------------------
+                                    Total        		   Sentenced to more than 1 year
+              		----------------------------------  	-------------------------------------------------
+                                       		   Percent					Percent	Incar-
+Region and        	Advance              	   change     	Advance				change	ceration  		       
+jurisdiction    	  1996   	 1995      1995-96    	1996		1995		1995-96	rate/b
+-----------------------------------------------------------------------------------------------------------------
+
+ U.S. total		1,182,169	1,126,293	5.0%	1,138,187	1,085,369	4.9%	427
+									
+Federal			  105,544	  100,250	5.3%	   18,815	   83,663	6.2%	 33
+State			1,076,625	1,026,043	4.9	1,049,372	1,001,706	4.8	394
+									
+Northeast		  166,476	  162,050	2.7%	  159,243	  154,959	2.8%	308
+Connecticut/b		   15,007	   14,801	1.4	   10,301	   10,418      -1.1	314
+Maine			    1,476	    1,396	5.7	    1,401	    1,326	5.7	112
+Massachusetts/c,d	   11,790	   11,687	 .9	   10,903	   10,355	5.3	302
+New Hampshire		    2,071	    2,014	2.8	    2,071	    2,014	2.8	177
+New Jersey		   27,490	   27,066	1.6	   27,490	   27,066	1.6	343
+New York		   69,709	   68,489	1.8	   69,709	   68,489	1.8	383
+Pennsylvania		   34,537	   32,416	6.5	   34,531	   32,410	6.5	286
+Rhode Island/b		    3,271	    2,902      12.7	    2,030	    1,833      10.7	205
+Vermont/b,f		    1,125	    1,279     -12.0	      807	    1,048     -23.0	137
+							
+Midwest			  204,509	  193,220	5.8%	  203,285	  192,147	5.8%	326
+Illinois/f		   38,852	   37,658	3.2	   38,852	   37,658	3.2	327
+Indiana			   16,960	   16,125	5.2	   16,801	   16,046	4.7	287
+Iowaf			    6,342	    5,906	7.4	    6,342	    5,906	7.4	222
+Kansas			    7,756	    7,054      10.0	    7,756	    7,054      10.0	301
+Michiganf		   42,349	   41,112	3.0	   42,349	   41,112	3.0	440
+Minnesota		    5,158	    4,846	6.4	    5,158	    4,846	6.4	110
+Missouri		   22,003	   19,134      15.0	   21,999	   19,134      15.0	409
+Nebraska		    3,275	    3,074	6.5	    3,212	    3,006	6.9	194
+North Dakota		      722	      608      18.8	      650	      544      19.5	101
+Ohio/e			   46,174	   44,663	3.4	   46,174	   44,663	3.4	413
+South Dakota		    2,064	    1,841      12.1	    2,064	    1,841      12.1	281
+Wisconsin		   12,854	   11,199      14.8	   11,928	   10,337      15.4	230
+									
+South			  469,744	  454,182	3.4%	  459,294	  446,958	2.8%	490
+Alabama		   	   21,760	   20,718	5.0	   21,108	   20,130	4.9	492
+Arkansas		    9,407	    9,411	-- 	    8,992	    9,021	-.3	357
+Delawareb		    5,110	    4,802	6.4	    3,119	    2,980	4.7	428
+District of Col./b	    9,376	    9,800      -4.3	    8,659	    9,042      -4.2    1609
+Florida/f		   63,763	   63,879      - .2	   63,746	   63,866       -.2	439
+Georgia/f		   35,139	   34,266	2.5	   34,328	   34,168	 .5	462
+Kentucky		   12,910	   12,060	7.0	   12,910	   12,060	7.0	331
+Louisiana		   26,779	   25,195	6.3	   26,779	   25,195	6.3	615
+Maryland		   22,050	   21,453	2.8	   20,980	   20,450	2.6	412
+Mississippi		   14,292	   12,684      12.7	   13,576	   12,251      10.8	498
+North Carolina		   30,701	   29,253	4.9	   27,945	   27,914 	 .1	379
+Oklahoma/e		   19,593	   18,151	7.9	   19,593	   18,151	7.9	591
+South Carolina		   20,446	   19,611	4.3	   19,758	   19,015	3.9	532
+Tennessee/e		   15,626	   15,206	2.8	   15,626	   15,206	2.8	292
+Texas/e			  132,383	  127,766	3.6	  132,383	  127,766	3.6	686
+Virginia		   27,655	   27,415	 .9	   27,062	   27,260       -.7	404
+West Virginia		    2,754	    2,512	9.6	    2,730	    2,483	9.9	150
+						
+West			  235,896	  216,591	8.9%	  227,550	  207,642	9.6%	386
+Alaskab			    3,706	    3,522	5.2	    2,311	    2,042      13.2	379
+Arizon/a,f		   22,573	   21,341	5.8	   21,603	   20,291	6.5	481
+California		  147,712	  135,646	8.9	  144,386	  131,745	9.6	451
+Colorado/e		   12,438	   11,063      12.4	   12,438	   11,063      12.4	322
+Hawaii/b,f		    4,011	    3,560      12.7	    2,954	    2,590      14.1	249
+Idaho			    3,834	    3,328      15.2	    3,834	    3,328      15.2	319
+Montana			    2,073	    1,999	3.7	    2,073	    1,999	3.7	235
+Nevadae			    8,215	    7,713	6.5	    8,215	    7,713	6.5	502
++New Mexico		    4,724	    4,078      15.8	    4,506	    3,925      14.8	261
+Oregon			    8,661	    7,886 	9.8	    7,316	    6,515      12.3	226
+Utah			    3,939	    3,452      14.1	    3,913	    3,428      14.1	194
+Washington		   12,527	   11,608	7.9	   12,518	   11,608	7.8	224
+Wyoming			    1,483	    1,395	6.3	    1,483	    1,395	6.3	307 
+
+*****************************************************************************************************************                 
+Note:  The advance count of prisoners is conducted
+in January and may be revised. Prisoner counts for 1995 
+may differ from those reported in previous publications.
+--Less than 0.05%.
+a/The number of prisoners with sentences of more than 1 year per
+  100,000  U.S. residents.
+b/Prisons and jails form one integrated system.  NPS data include 
+  jail and prison populations.
+c/Reference date is not December 31.  See NPS jurisdiction notes.
+d/Incarceration rate includes an estimated 7,500 inmates
+sentenced 
+  to more than 1 year, but held in county facilities.
+e/Data for inmates sentenced to more than a year may include some
+  inmates sentenced to a year or less.
+f/Population figures are based on custody counts.
+-----------------------------------------------------------------
+
+The sentenced State prison population experienced slower growth
+during the year than the Federal prison population (4.8%
+compared to 6.2%). The rate of growth for sentenced State
+prisoners was down from the 1995 rate of 6.9%, and also below
+the 7.2% average annual growth rate since 1990. In absolute
+numbers, sentenced State prisoners increased by 47,666 during
+1996, compared to the 1995 increase of 64,442.
+
+During 1996 the total prison population rose by at least 10% in
+12 States.  North Dakota experienced the largest increase
+(18.8%), followed by New Mexico (15.8%), Idaho (15.2%), Missouri
+(15.0%), and Wisconsin (14.8%). Two States and the District of
+Columbia experienced a decline in prison population. Vermont had
+the largest decline (down 12.0%), followed by the District of
+Columbia (-4.3%), and Florida (-0.2%).
+
+During 1996, 48% of  the increase in total prison population was
+accounted for by California (up 12,066), the Federal system
+(5,294), Texas (4,617), Missouri (2,869), and Pennsylvania
+(2,121). These five jurisdictions incarcerated over a third of
+the Nation's prison population.
+
+**********************************
+Rates of prison incarceration rise
+**********************************
+
+On December 31, 1996, the number of sentenced prisoners per
+100,000 U.S. residents was 427. Of the 13 States with rates
+greater than that for the Nation, 9 were in the South, 3 in the
+West, and 1 in the Midwest.  Four States--North Dakota (101),
+Minnesota (110), Maine (112), and Vermont (137)--had rates that
+were less than a third of the national rate. The District of
+Columbia, a wholly urban jurisdiction, held 1,609 prisoners per
+100,000 residents at yearend 1996.
+
+Since 1985 the number of sentenced prisoners per 100,000
+residents has risen from 200 to 427. During this period, prison
+incarceration rates rose most in the South (from 236 to 490) and
+West (from 176 to 386). The rate in the Midwest rose from 161 to
+326, and the rate in the Northeast grew from 145 to 308. The
+number of sentenced Federal prisoners per 100,000 residents
+increased from 14 to 33.
+
+************************************
+Western States recorded the fastest 
+growth in prison populations
+***********************************
+
+During 1996 the number of sentenced State and Federal prisoners
+grew by an additional 1,016 inmates per week. The 1996 average
+weekly increase was 298 inmates fewer than the weekly increase
+in 1995, and 615 fewer than in 1994.
+
+The Western States had the highest percentage increase in the
+number of sentenced prisoners, with a gain of 9.6% during 1996.
+The Midwest experienced a rise of 5.8% in the number of
+sentenced prisoners, while the South and the Northeast both
+recorded increases of 2.8%.  
+
+Twenty States recorded higher growth rates of sentenced
+prisoners in 1996 than in 1995. Of these, 14 recorded growth
+rates over 10% in 1996, led by North Dakota (19.5%), Wisconsin
+(15.4%), and Idaho (15.2%).  
+
+New York, New Jersey, Georgia, and North Carolina reported
+increases of less than 2% in the number of sentenced prisoners
+during 1996. Among the six jurisdictions which reported
+declines, only Vermont (down 23.0%), the District of Columbia
+(-4.2%), and Connecticut (-1.1%) recorded a drop of greater than
+1%. 
+
+Since 1991 the sentenced inmate population in State prisons has
+grown by 43.2%. During this period eight States reported
+increases of at least 50%, led by Texas (up 156.2%) and Hawaii
+(67.3%).  Maine was the only State to report a decline (down
+10.1%). During this time the Federal system reported an increase
+of 56.7%--32,119 additional inmates with sentences of more than
+1 year.
+
+*************************************************************
+Table 4. Changes in the number of sentenced prisoners under 
+the jurisdiction of State or Federal correctional authorities, 
+1991-96 and 1986-96.
+------------------------------------------------------------------------
+
+                   Prisoners with a sentence of more than 1 year
+               
+------------------------------------------------------------------------
+                      1991-96                   1986-96
+                --------------------   ----------------------
+Region and      Population   Percent     Population    Percent
+jurisdiction	difference   Change      difference    Change
+------------------------------------------------------------------------
+
+U.S. total      348,577      44.1%        616,103      118.0%
+                         
+Federal          32,119      56.7%         52,284      143.1%
+State           316,458      43.2         563,819      116.1
+                         
+Northeast                     
+Connecticut       1,716      20.0%          5,975      138.1%
+Maine              (157)     -10.1            159       12.8
+Massachusetts        --        --              --         --
+New Hampshire       538       35.1          1,289      164.8
+New Jersey        4,007       17.1            --         --
+New York    	 11,847       20.5         31,260       81.3
+Pennsylvania     11,145       47.7         19,366      127.7
+Rhode Island        281       16.1          1,023      101.6
+Vermont              --         --             --         --
+                         
+Midwest                       
+Illinois    	  9,737       33.4%        19,396      99.7%
+Indiana           3,225       23.8          6,838      68.6
+Iowa              2,197       53.0          3,565     128.4
+Kansas            1,853       31.4          2,411      45.1
+Michigan     	  5,926       16.3         21,607     104.2
+Minnesota    	  1,686       48.6          2,696     109.5
+Missouri     	  6,102       38.4         11,690     113.4
+Nebraska       	    806       33.5          1,258      64.4
+North Dakota        209       47.4            289      80.1
+Ohio             10,430       29.2         23,711     105.6
+South Dakota        690       50.2          1,014      96.6
+Wisconsin   	  4,153       53.4          6,211     108.6
+                         
+South                         
+Alabama            4,708      28.7%         9,6048      3.5%
+Arkansas           1,270      16.4           4,291     91.3
+Delaware             646      26.1           1,163     59.5
+District of Col.   1,553      21.9           3,872     80.9
+Florida           17,215      37.0          31,518     97.8
+Georgia           11,319      49.2          18,478    116.6
+Kentucky           3,111      31.7           7,622    144.1
+Louisiana          6,776      33.9          12,479     87.3
+Maryland           3,156      17.7           8,421     67.1
+Mississippi        4,894      56.4           7,015    106.9
+North Carolina     9,673      52.9          11,572     70.7
+Oklahoma           6,253      46.9           9,885    101.8
+South Carolina     2,550      14.8           8,736    79.3
+Tennessee          4,152      36.2           8,035    105.8
+Texas             80,706     156.2          93,849    243.5
+Virginia           7,402      37.7          14,517    115.7
+West Virginia        --         --      	--       --
+                         
+West                     
+Alaska                --        -- 	        --       --
+Arizona            6,760      45.5%         12,565    139.0%
+California          --          --       	--       --
+Colorado     	   4,046      48.2           8,634     22.7
+Hawaii             1,188      67.3           1,433     94.2
+Idaho                 --        --  	       --        --
+Montana              595      40.3             962     86.6
+Nevada             2,392      41.1           3,664     80.5
+New Mexico         1,490      49.4           2,200     95.4
+Oregon             1,741      31.2           2,546     53.4
+Utah           	   1,308      50.2           2,168    124.2
+Washington         3,362      36.7           5,915     89.6
+Wyoming              384      34.9             622     72.2
+
+*********************************************************************                     
+Note:  Totals include data for States otherwise excluded because 
+of reporting changes.
+( )Indicates a decline in the number of sentenced prisoners.
+--Not available because of reporting changes.  
+See NPS jurisdiction notes.
+---------------------------------------------------------------------
+
+In 1996 the 10 States with the largest prison populations held
+61% of the Nation's total prison population, with California,
+Texas, and the Federal System accounting for 33%. Texas had the
+highest prison incarceration rate (686 sentenced inmates per
+100,000 residents), followed by Louisiana (615), Oklahoma (591),
+and South Carolina (532). Eight States had prison incarceration
+rates below 200, led by North Dakota (101), Minnesota (110), and
+Maine (112).
+
+***************************************************************************************************************************************
+Table 5. The prison situation on December 31, 1996
+------------------------------------------------------
+                                           Sentenced 			Percentage changes in the prison population
+                                           prisoners per 	----------------------------------------------------------
+ Prison         Number of   Incarceration  100,000 State	1-year growth,	Percent	5-year growth	Percent
+ population   prisoners   rates, 12/31/96  residents*		1995-96		change	1991-96		change
+-------------------------------------------------------------------------------------------------------------------------
+
+10 Highest:							
+California	147,712		Texas		686		North Dakota	 18.8%	Texas		156.2%
+Texas		132,383		Louisiana	615		New Mexico	 15.8 	Mississippi	 60.5
+Federal		105,544		Oklahoma	591		Idaho		 15.2	Iowa		 53.0
+New York	 69,709		South Carolina	532		Missouri	 15.0	New Mexico	 51.5
+Florida		 63,763		Nevada		502		Wisconsin	 14.8	South Dakota	 50.2
+Ohio		 46,174		Mississippi	498		Utah		 14.1	Utah		 14.1
+Michigan	 42,349		Alabama		492		Rhode Island	 12.7	Rhode Island	 12.7
+Illinois	 38,852		Arizona		481		Mississippi	 12.7	Utah		 50.1
+Georgia		 35,139		Georgia		462		Hawaii		 12.7	Hawaii		 48.6
+Pennsylvania	 34,537		California	451		Colorado	 12.4	Minnesota	 48.6
+							
+10 Lowest:							
+North Dakota	    722		North Dakota	101		Vermont		-12.0%	District of Col.-10.3%
+Vermont		  1,125		Minnesota	110		District of Col. -4.3	Maine		 -6.5
+Maine		  1,476		Maine		112		Florida		  -.2	Maryland	 14.3
+Wyoming		  1,483		Vermont		137		Arkansas	   0	Michigan	 16.3
+South Dakota	  2,064		West Virginia	150		Massachusetts	   .9	New Jersey	 17.1
+New Hampshire	  2,071		New Hampshire	177		Virginia	   .9	Rhode Island	 18.0
+Montana		  2,073		Nebraska	194		Connecticut	  1.4	New York	 20.5
+West Virginia	  2,754		Utah		194		New Jersey	  1.6	Arkansas	 21.1
+Rhode Island	  3,271		Rhode Island	205		New York	  1.8	Oregon		 28.7
+
+******************************************************************************************************************************************
+*Prisoners with a sentence of more than a year.  
+The Federal Bureau of Prisons and the District 
+of Columbia are excluded.
+----------------------------------------------------------
+
+The 15 States with the smallest prison populations each held
+less than 5,000 inmates. Collectively, these States held only
+3.4% of the Nation's total prison population.
+
+Over the last 5 years, 18 States had prison population increases
+of more than 40%, led by Texas (156.2%), Wisconsin (63.7%),
+North Carolina (62.4%), and Mississippi (60.5%). Among State
+with increased prison populations since 1991, only South
+Carolina (11.9%), Maryland (14.3%), Michigan (16.3%), New Jersey
+(17.1%), and Rhode Island (18.0%) had growth of less than 20%.
+Maine (down 6.5%) and the District of Columbia (-10.3%)
+experienced a decline in the number of inmates. 
+
+*************************************
+Female prison population growth rate 
+was nearly twice that of males
+*************************************
+
+During 1996 the number of women under the jurisdiction of State
+or Federal prison authorities increased from 68,494 to 74,730,
+an increase of 9.1%. The number of men grew from 1,057,799 to 
+1,107,439, an increase
+of 4.7%. 
+
+*******************************************************************
+Table 6. Prisoners under the jurisdiction of State or Federal 
+correctional authorities, by sex of inmate, yearend 1995 and 1996
+-------------------------------------------------------------------
+
+                     Men              Women
+
+Total          
+Advance 1996         1,107,439       74,730
+1995                 1,057,799       68,494
+          
+Percent change, 
+1995-96                    4.7%        9.1%
+          
+Sentenced to more 
+than 1 year    
+     
+Advance 1996         1,068,573       69,614
+1995                 1,021,452       63,917
+ 
+Percent change, 
+1995-96                   4.6%          8.9%
+          
+Incarceration rate, 
+1996*                     819            51
+
+***********************************************************      
+*The number of prisoners with sentences of more than 1 year 
+per 100,000 residents on December 31, 1996.
+-----------------------------------------------------------
+
+Since 1985 the annual rate of growth of female inmates has
+averaged 11.2%, higher than the 7.9% average increase in male
+inmates. By 1996 women accounted for 6.3% of all prisoners
+nationwide, up from 4.6% in 1985. 
+
+Relative to their number in the U.S. resident population, men
+were 16 times more likely than women to be incarcerated in a
+State or Federal prison. At yearend 1996, there were 51
+sentenced female inmates per 100,000 women in the United States,
+compared to 819 sentenced male inmates per 100,000 men.
+
+Oklahoma (with 115 sentenced female inmates per 100,000 female
+State residents ) and Texas (with 102) had the highest  female
+incarceration rates in 1996.  Maine (with 5 sentenced female
+prisoners per 100,000 female residents), Vermont (with 7) and
+Minnesota (with 10) had the lowest incarceration rates.
+
+************************************************************
+Table 7. Women under the jurisdiction of State or Federal 
+correctional authorities, yearend 1996
+--------------------------------------------------------------
+                                     Percent change 
+              Number      Percent    in female inmate  Incar-
+Region and    of female   of all     population,       ceration
+jurisdiction  inmates     inmates    1995-96           rate, 1996*
+--------------------------------------------------------------------
+U.S. total     74,730          6.3%      9.1%           51
+                    
+Federal         7,700          7.3%      4.1%            4
+State          67,030          6.2       9.7            47
+                    
+Northeast	 8,771         5.3%      4.7%           29
+Connecticut      1,133         7.5      16.2            36
+Maine               39         2.6       8.3             5
+Massachusetts      747         6.3      13.9            15
+New Hampshire      106         5.1       -.9            18
+New Jersey       1,281         4.7      -2.0            31
+New York 	 3,728         5.3       3.1            40
+Pennsylvania     1,476         4.3      -1.7            24
+Rhode Island       229         7.0      45.9            14
+Vermont             32         2.8     -27.3             7
+                    
+Midwest          11,704        5.7%      7.8%           37
+Illinois  	  2,249        5.8       2.4            37
+Indiana           1,008        5.9      13.0            33
+Iowa                470        7.4      10.6            32
+Kansas              476        6.1       6.0            36
+Michigan  	  1,920        4.5       4.2            39
+Minnesota	    234        4.5       7.8            10
+Missouri  	  1,464        6.7      24.7            53
+Nebraska  	    228        7.0       8.1            26
+North Dakota         45        6.2      55.2            12
+Ohio        	  2,805        6.1        .4            49
+South Dakota        142        6.9       7.6            38
+Wisconsin   	    663        5.2      32.1            24
+                    
+South            30,103        6.4%      9.8%           60
+Alabama           1,357        6.2       4.8            58
+Arkansas   	    548        5.8      -1.1            41
+Delaware    	    379        7.4       6.2            44
+District of Col.    432        4.6     -12.6           119
+Florida           3,302        5.2      -9.8            44
+Georgia           2,239        6.4      10.0            56
+Kentucky   	    820        6.4      11.7            41
+Louisiana 	  1,562        5.8       9.7            69
+Maryland  	  1,055        4.8      -2.2            37
+Mississippi         941        6.6      19.0            60
+North Carolina 	  1,870        6.1       6.7            39
+Oklahoma 	  1,940        9.9       6.9           115
+South Carolina	  1,202        5.9      15.0            57
+Tennessee  	    688        4.4       5.2            25
+Texas             9,933        7.5      25.2           102
+Virginia  	  1,687        6.1       1.7            47
+West Virginia	    148        5.4      14.7            15
+                    
+West       	 16,452        7.0%     13.9%           51
+Alaska              269        7.3      10.7            46
+Arizona   	  1,519        6.7       6.1            63
+California  	 10,248        6.9      12.8            60
+Colorado  	    845        6.8      18.5            43
+Hawaii              385        9.6      23.4            52
+Idaho               273        7.1      28.8            46
+Montana             117        5.6       4.5            26
+Nevada              607        7.4      14.5            76
+New Mexico          378        8.0      36.0            39
+Oregon              571        6.6      22.8            22
+Utah          	    210        5.3      30.4            21
+Washington          920        7.3      16.0            33
+Wyoming             110        7.4       3.8            46
+**************************************************************                  
+*The number of female prisoners with a sentence of more 
+than 1 year per 100,000 female residents on December 
+31, 1996.
+-------------------------------------------------------------
+
+At yearend 1996, 21 States and the Federal system had more than
+1,000 female inmates. In 7 States the number of female inmates
+increased by at least 10% during the year. Texas led the Nation
+with a 25.2% increase (from 7,935 female inmates in 1995 to
+9,933 in 1996).
+
+Three States held fewer than 100 female inmates at yearend 1996.  
+Women were fewer than 3% of all prisoners in Maine and Vermont.  
+Oklahoma had the highest percentage of female prisoners (9.9%), 
+followed by Hawaii (9.6%), and New Mexico (8.0%). 
+
+Four States--California, Texas, New York, and Florida--and 
+the Federal system held nearly half of the Nation's female
+prisoners.  Nineteen States and the District of Columbia each had fewer than
+500 female inmates in 1996, and together these 20 jurisdictions held
+only 6% of all female prisoners.
+
+***************************************
+Local jails held over 31,000 prisoners 
+because of State prison crowding
+***************************************
+
+At the end of 1996, 27 States reported a total of 31,508 State
+prisoners held in local jails or other facilities because of crowding in
+State facilities. Louisiana accounted for 29% of all prisoners 
+sentenced to prison but housed locally. Seven States--Louisiana, 
+Mississippi, New Jersey, Arkansas, North Dakota, Tennessee, and
+West Virginia--held more than 10% of their prison population in local
+jails.  Overall, 2.9% of all State prisoners were confined in local jails
+due to State prison crowding, up slightly from 2.7% in 1995. 
+
+************************************************************
+Table 8. State prisoners held in local jails because of 
+prison crowding, by State, yearend 1995 and 1996
+-------------------------------------------------------
+               State prisoners held in local jails   
+               ------------------------------------
+                                      As a percent                
+States housing         Number         of State inmates
+prisoners in        --------------    ----------------
+local jails        1996     1995     1996    1995    
+-----------------------------------------------------------
+U.S. total       31,508    27,858     2.9%   2.7%
+                         
+Louisiana   	  9,148      8671    34.2    34.4
+New Jersey        4,367      4258    15.9    15.7
+Mississippi       3,242     2,357    22.7    18.6
+Virginia    	  2,506     2,979     9.1    10.9
+Tennessee   	  1,958     2,057    12.5    13.5
+Alabama           1,529       800     7.0     3.9
+Arkansas    	  1,201       675    12.8     7.2
+Indiana     	  1,194     1,139     7.0     7.1
+Colorado    	  1,163       549     9.4     5.0
+                         
+Kentucky      	    778       559     6.0%    4.6%
+Massachusetts/a,b   617       662     5.0     5.4
+North Carolina      500       396     1.6     1.4
+South Carolina      413       399     2.0     2.0
+Wisconsin      	    341       354     2.7     3.2
+Michigan b          330       393      .8      .9
+New Mexico          309       369     6.5     9.0
+Utah                307       279     7.8     8.1
+Idaho               301         0     7.9     --
+                         
+West Virginia       286       134    10.4%   5.3%
+Oklahoma/b          285       291     1.4    1.6
+Minnesot/a          208        63     4.0    1.3
+Montana             138       133     6.7    6.7
+Arizona/b           124       322      .5    1.5
+Oregon               91        19     1.1     .2
+North Dakota         91  	0    12.6     --
+New Hampshire        65  	0     3.1     --
+Wyoming              16         0     1.1     --
+
+*********************************************************************************                   
+-- Not calculated.
+a/The reference date is not December 31.  See NPS jurisdiction
+notes.
+b/For States not including jail backups in their yearend counts,
+the percent of the jurisdiction population was calculated based on
+the total number of State inmates in jail and prison.
+-------------------------------------------------------------------------------
+
+In addition to housing inmates in local jails, 14 States and the
+District of Columbia eased prison crowding by placing inmates in
+other States or in Federal facilities.  On December 31, 1996,
+7,101 prisoners nationwide were held under such arrangements
+--representing less than 1% of all State prisoners.  North
+Carolina placed the most inmates in Federal and out-of-State
+facilities (1,381), followed by Oregon (1,026) and Colorado
+(973).  At yearend 1996 Oregon (11.8%) and Montana (11.6%) had
+more than 10% of their total prison population in other State or
+Federal facilities. 
+
+
+                      Prisoners held in other
+                      states or Federal facilities
+                      ------------------------------
+States housing                         
+prisoners in                      As a percent  
+other States or                   of all State  
+Federal facilities     Number     prisoners
+----------------------------------------------------
+   U.S. total           7,101         .7%
+          
+North Carolina          1,381        4.5%
+Oregon                  1,026       11.8
+Colorado        	  973        7.8
+Missouri          	  901        4.1
+Virginia          	  596        2.2
+District of Col.  	  557        5.9
+Hawaii                    297        7.4
+Massachusetts       	  269        2.3
+Montana                   241       11.6 
+Alaska                    202        5.5
+Idaho                     198        5.2
+New Mexico         	   162       3.4
+Wisconsin        	   126       1.0
+Alabama                    97         .4
+New Hampshire        	   75        3.6
+----------------------------------------------------
+
+*******************************
+Prison capacity measures vary
+*******************************
+
+The extent of  prison crowding is difficult to determine because
+of the absence of uniform measures for defining capacity.  The
+52 reporting jurisdictions apply a wide variety of capacity
+measures to reflect both the available space to house inmates
+and the ability to staff and operate an institution.  To
+estimate the capacity of their prisons, jurisdictions were asked
+to supply three measures for yearend 1996: rated, operational,
+and design capacities.  These measures were defined as follows:
+
+Rated capacity is the number of beds or inmates assigned by a
+rating official to institutions within the jurisdiction.
+
+Operational capacity is the number of inmates that can be
+accommodated based on a facility's staff, existing programs, and
+services.
+
+Design capacity is the number of inmates that planners or
+architects intended for the facility. 
+
+Of the 52 reporting jurisdictions, 33 supplied a rated capacity, 
+43 provided an operational capacity, and 37 submitted a design
+capacity.
+
+******************************************************************
+Table 9. Reported Federal and State prison capacities, yearend
+1996
+--------------------------------------------------------------------
+
+                                                           Population housed as
+                                                           a percent of capacity
+                                                          ---------------------
+Region and         Rated         Operational    Design    Highest     Lowest
+jurisdiction      capacity       capacity       capacity  capacity    capacity
+------------------------------------------------------------------------------- 
+
+Federal              76,897          ...           ...       125%       125%
+                         
+Northeast                     
+Connecticut/a  	        ...          ...           ...        ...        ... 
+Maine                 1,490        1,490         1,490         99%       99%  
+Massachusetts           ...          ...         7,838        150       150
+New Hampshire/b       1,886        1,786         1,716        102       113
+New Jersey/b            ...          ...        13,869        167       167
+New York    	     68,996       65,700        53,366        101       131
+Pennsylvania            ...       21,740        22,170        156       159
+Rhode Island          3,441        3,441         3,441         95        95
+Vermont               1,160        1,160         1,023         97       110
+                         
+Midwest                       
+Illinois   	     28,200       28,200        24,538        138%      158%
+Indiana/b   	     13,611       15,730           ...        100       116
+Iowa          	      4,201        4,201         4,201        151       151
+Kansas                7,883          ...           ...         98        98
+Michigan                ...       42,959           ...         99        99
+Minnesota/b           5,014        5,014         5,014         99        99
+Missouri                ...       20,611           ...        102       102
+Nebraska                ...        2,517         2,013        130       163
+North Dakota/b          623          623           623        101       101
+Ohio                 34,337          ...           ...        134       134
+South Dakota            ...        1,832           ...        113       113
+Wisconsin/b           9,538        9,538         9,538        130       130
+                         
+South                         
+Alabama/b            19,927       19,927         19,927        99%       99%
+Arkansas/b            8,160        8,160          8,160       101       101
+Delaware                ...        4,206          3,192       121       160
+District of Col.      7,251        9,866          9,419        89       122
+Florida              71,449       68,582         62,065        89       103
+Georgia                 ...       32,889            ...       107       107
+Kentucky/b            9,232        9,003          7,104       131       171
+Louisiana/b          17,631       17,664            ...       100       100
+Maryland                ...       22,885            ...        96        96
+Mississippi/b        12,440       12,440         12,440        89        89
+North Carolina/b     24,175          ...         24,175       119       119
+Oklahoma             11,369       14,388            ...       136       172
+South Carolina/b     18,614       18,614         15,189       108       132
+Tennessee/b             ...       13,811         14,095        97        99   
+Texas               136,195      136,195        138,849        95        97
+Virginia/b           16,166       16,166         16,166       152       152
+West Virginia b       2,640        2,730          2,580        90        96
+                         
+West                     
+Alaska                2,603          ...             ...      135%      135%
+Arizona                 ...       20,270             ...      111       111
+California              ...          ...         72,621       203       203
+Colorado/b              ...        8,605          7,104       118       143
+Hawaii                  ...        2,650          1,754       151       229
+Idaho/b               2,447        3,301          2,447       101       136
+Montana/b               ...        1,417            896       120       189
+Nevada                7,667        7,326          5,842       107       141
+New Mexico/b          4,515        4,515          4,515        94        94
+Oregon/b                ...        7,202            ...       105       105
+Utah/b                 ...         4,048          4,230        86        90
+Washington            7,371       10,057         10,057       125       170
+Wyoming/b               981        1,244          1,035       118       150
+*************************************************************************************
+...Data not available.
+a/Connecticut no longer reports capacity due to a law passed in
+1995.  See NPS jurisdiction notes.
+b/Population housed as a percent of capacity was calculated
+excluding jail backups from yearend counts.
+-------------------------------------------------------------------------------------------
+
+Twenty-six jurisdictions provided only one measure or the same
+figure for each measure they reported.  As a result, estimates of total
+capacity and measures of the relationship to population are based on the
+highest and lowest capacity figures provided.  
+
+
+************************************
+Most jurisdictions were operating 
+above capacity
+************************************
+
+Prisons generally require reserve capacity to operate
+efficiently.  Dormitories and cells need to be maintained and
+repaired periodically, special housing is needed for protective
+custody and disciplinary cases, and space may be needed to cope
+with emergencies.
+
+At the end of 1996, 14 States and the District of Columbia
+reported that they were operating at or below 99% of their
+highest capacity.  Thirty-six States, the District of Columbia
+and the Federal prison system reported operating at 100% or more
+of their lowest capacity.  Mississippi, which was operating at
+89% of their lowest capacity, had the least crowded prison
+system.  California was operating at over twice their highest
+capacity, making their prison system the most crowded.
+
+By yearend 1996, the Federal prison system was estimated to be
+operating at 37% over capacity, compared to 26% over capacity in
+1995.  State prisons were estimated to be operating at 117% of
+their highest capacity, which is a slight increase from the
+figure of 115% reported last year.  However, State prisons were
+also operating at 125% of their lowest capacity, which continued
+a decline from the figure of 131% reported in 1991.
+
+********************************************************************
+Table 10. Population as a percent of reported 
+capacity for State prisons, 1996
+----------------------------------------------
+
+                             State
+                             prisons/a
+-----------------------------------------------
+Highest capacity               893,752
+Lowest capacity                836,272
+     
+Net change in 
+capacity, 1995-96   
+     
+Highest                         24,081
+Lowest                          42,028
+     
+Population as a 
+percent of capacity/b     
+     
+Highest   
+   1991                            116%
+   1992                            118
+   1993                            118
+   1994                            117
+   1995                            114
+   1996                            116
+     
+Lowest    
+   1991                            131%
+   1992                            131
+   1993                            129
+   1994                            129
+   1995                            125
+   1996                            124
+***********************************************************
+Note:  States were asked to report their rated, operational, 
+and design capacities.  Tabulations reflect the highest and 
+lowest of the three capacities for 1991 to 1996.
+a/Data include estimated capacity figures for Connecticut at 
+yearend 1995 and 1996.
+b/Excludes inmates sentenced to State prison but held in local 
+jails because of crowding.
+------------------------------------------------------------------
+
+
+*****************************************************************************************
+Prisoners in custody of correctional authorities 
+in the U.S. territories, yearend 1995 and 1996
+--------------------------------------------------------------------------------------- 
+                           Total                    Sentenced to more than 1 year
+                ---------------------------- --------------------------------------
+               				Percent           	   Percent  Incar-
+Territory/   	   Advance   Final   	change     Advance Final   change   ceration 
+commonwealth 	   1996	     1995    	1995-96    1996    1995    1995-96  rate,1996/a
+-----------------------------------------------------------------------------------------
+
+   Total            13,116    12,891      1.7%      9,576     9,371   2.2%       231
+                                        
+American Samoa          90        79      13.9         70        43   62.8       118
+                                        
+Guam                   416       379       9.8        323       286   12.9       206
+                                        
+Commonwealth of 
+the Northern 
+Mariana Islands         59        70      -15.7        50         65 -23.1        96
+          
+Commonwealth of
+Puerto Rico/b       11,993     11,810       1.5     8,776      8,660   1.3       232
+                                   
+U.S. Virgin  
+Islands                558        553        .9       357        317  12.6       368
+
+
+a/The number of prisoners with a sentence of more than 1 year per
+100,000 persons in the resident population.  Midyear population estimates were
+provided by the U.S.Bureau of the Census, International Data Base.
+b/The number of prisoners sentenced to more than 1 year were
+estimated using prisoner counts from 1994 and 1995.
+
+
+*****************************
+U.S. territories held over 
+13,000 inmates in 1996
+*****************************
+
+The U.S. territories and commonwealths--American Samoa, Northern 
+Mariana Islands, Guam, Puerto Rico, and Virgin Islands--reported 
+13,116 inmates in custody of their prison systems at yearend
+1996--an increase of 1.7% since 1995. Prisoners with a sentence of more 
+than 1 year totaled 9,576 (or nearly three-quarters of the total 
+terrritorial prison population).  
+
+Relative to the resident populations in the territories, the rate 
+of incarceration was 231 prisoners per 100,000 residents--about 
+half the combined rate of the 50 States and the District of
+Columbia.  Of the 5 territories, the Northern Mariana Islands had the lowest 
+prison incarceration rate--96 inmates per 100,000 residents,
+followed by American Samoa with 118.  The U.S. Virgin Islands (with 368
+prisoners per 100,000 residents) and Puerto Rico (with 232) had the highest 
+incarceration rates.
+
+Puerto Rico, the largest of the territories, had the most
+sentenced prisoners (8,776 at yearend 1996), up from 8,660 in 1995.  In
+1996, 21 States and the District of Columbia had fewer sentenced
+inmates than Puerto Rico; 13 States had lower incarceration rates.
+
+
+************************************
+An increasing percentage of the 
+Nation's prisoners are black or
+Hispanic
+************************************
+
+Between 1985 and 1995, the number of prisoners with sentences of
+more than 1 year rose by over 600,000. The number of white males
+increased by 103%, the number of black males by 143%, the number
+of white females by 194%, and the number of black females by
+204%.  
+
+***********************************************************************
+Table 11. Number of sentenced prisoners under State or Federal 
+jurisdiction, by sex and race, 1985-95
+
+                      Number of sentenced prisoners     
+        ---------------------------------------------------------------------------
+                            Male                               Female 
+                   ------------------------------     -----------------------------
+Year     Total        All/a     White/b    Black/b    All/a     White/b    Black/b              
+-----------------------------------------------------------------------------------
+1985     480,568     459,223    242,700    210,500    21,345     10,800     10,200     
+1986     522,084     497,540    258,900    232,000    24,544     12,400     11,800
+1987     560,812     533,990    277,200    249,700    26,822     13,700     12,600     
+1988     603,732     573,587    292,200    274,300    30,145     15,500     14,200          
+1989     680,907     643,643    322,100    313,700    37,264     18,400     18,300          
+1990     739,980     699,416    346,700    344,300    40,564     20,000     20,100          
+1991     789,610     745,808    363,600    372,200    43,802     20,900     22,200     
+1992     846,277     799,776    388,000    401,700    46,501     22,100     23,800          
+1993     932,074     878,037    418,900    445,400    54,037     25,200     27,900          
+1994c  1,016,691     956,566    452,700    489,200    60,125     28,300     30,700          
+1995   1,085,363   1,021,463    493,700    510,900    63,900     31,700     31,000     
+-------------------------------------------------------------------------------------
+
+Note:  Sentenced prisoners are those with a sentence of 
+more than 1 year.             
+a/Includes Asians, Pacific Islanders, American Indians, 
+Alaska Natives, and other racial groups.     
+b/The numbers for sex and race were estimated and rounded 
+to the nearest 100.  For men and women, the total number of
+sentenced prisoners was multiplied by the proportion of 
+black or white of the total population in each group.  
+The reported racial distribution was used to estimate 
+unreported data.  For 1995, Hispanics were identified 
+among unknown sentenced prisoners; then, race was estimated 
+for those Hispanics based on the Survey of Inmates in State 
+Correctional Facilities.  Finally, estimation of sex and
+race was done, following the procedure used for previous
+year.
+c/The numbers of sentenced prisoners on December 31, 1994, 
+have been updated and will differ from numbers reported in prior years.           
+*********************************************************************************************************
+
+At yearend 1995 (the latest available data), there were
+more black males in State or Federal prisons (510,900) than
+white males (493,700).
+
+On December 31, 1995, an estimated 3.2% of all black males were
+in prison, compared with less than half of 1 percent of all
+white males. While the incarceration rates of both white and
+black males have risen since 1985, the rate for black males has
+grown more rapidly. In 1985 black males were about 6.3 times
+more likely than white males to be in prison; by 1995 they were
+7.0 times more likely than white males to be in prison.
+
+Hispanics, who may be of any race, represent the fastest growing
+minority group being imprisoned, increasing from 10.9% of all
+State and Federal inmates in 1985 to 15.5% in 1995. 
+
+*****************************************************************************
+Table 12. Number of Hispanic prisoners under State or Federal                        
+jurisdiction, by sex, 1985, 1990-95                              
+                              
+                              
+                                     Sentenced Hispanic prisoners per 
+              Hispanic prisoners     100,000 residents of Hispanic origin/a  
+-----------------------------------------------------------------------------             
+Year 		Number    Percent        Total/b   Male  Female
+                              
+1985 		 54672      10.9%         285      542    22
+                              
+1990 		103065      13.3          437      817    43
+1991 		112520      13.7          461      863    44
+1992 		125018      14.1          493      928    45
+1993 		138699      14.6          529      994    50
+1994 		156908      14.9          580     1092    53
+                              
+1995 		174292      15.5         622      1174    57
+-------------------------------------------------------------------------------                              
+Note:  Data are based on incomplete counts.  Each year, 
+some States were unable to report data on Hispanic origin, 
+others reported estimates only, and others reported incomplete
+counts.   
+a/Rates are based on estimates of the U.S. resident Hispanic 
+population on July 1 of each year.
+b/Sentenced prisoners 
+are those with a sentence of more than 1 year.  The number of 
+Hispanics with a sentence of more than a year was estimated 
+by multiplying the total number of sentenced prisoners by 
+the proportion of Hispanics among all prisoners under State 
+or Federal jurisdiction.  Estimates were rounded to the nearest
+100.                          
+**********************************************************************************
+
+
+During this period the number of Hispanics in prison rose by
+219%, with anaverage 12.3% increase each year.
+
+------------------------------------------------------
+Estimated number of  sentenced 
+male prisoners  per 100,000 
+male residents      
+---------------------------------
+Year        White    Black 
+
+1985         246     1,559 
+  
+1990         339     2,376 
+
+1995         461     3,250 
+
+Based on the U.S. resident male population 
+on July 1 of each year.            
+-----------------------------------------------
+
+At yearend 1995 at least 174,000 Hispanics were under the
+jurisdiction of State or Federal prison authorities.  Because
+some States are only able to report partial counts, the total
+number of Hispanic inmates may be somewhat larger. (Based on
+inmate self-identification obtained in the 1991 surveys of State
+and Federal inmates and projected to 1995, the Hispanic
+population may be as large as 200,000.)
+
+*************************************
+Growth linked to increasing number of 
+inmates in prison for
+violent and drug offense
+************************************
+
+The distribution of the four major offense categories--violent,
+property, drug, and public-order offenses--changed dramatically
+in the Nation's prison population between 1985 and 1995.  As a
+percent of all State prisoners, violent offenders fell from 54%
+in 1985 to 46% in 1995, property offenders fell from 31% to 24%,
+drug offenders rose from 9% to 23%, and public-order offenders
+rose from 5% to 7%.
+
+
+****************************************************************************************************************************************************
+Table 13. Estimated number of sentenced State prisoners, by 
+the most serious offense, 1985, 1990, 1995                                                                    
+
+                                                        
+                                 Total                  Percent                White              Percent                      Black              Percent       
+                       -------------------------------- change,    ----------------------------   change,        -------------------------------  change,
+Most serious offense     1985 	    1990      1995      1985-95    1985       1990       1995     1985-95         1985       1990        1995     1985-95
+----------------------------------------------------------------------------------------------------------------------------------------------------------                                             
+Total                  451,812    684,544    989,007      119%    224,900    338,600    471,100      109%         211,100    321,700    490,100      132%
+                                                                                
+Violent offenses       246,200    313,600    457,600       86%    111,900    151,200    214,800       92%         124,800    150,800    228,600       83%
+Murder/a	        50,600     72,000    103,200      104      24,100     36,300     48,400      101           24,600     33,100     51,600      110
+Manslaughter      	14,500     13,200     16,100       11       6,500      6,900      7,900       22            7,400      5,900      7,800        5
+Rape                    19,400     24,500     36,200       87       8,400     13,300     21,300      154           10,100     10,200     13,700       36
+Other sexual assault    20,300     39,100     59,000      191      14,600     28,900     44,200      203            4,700      9,000     13,200      181
+Robbery                 94,000     99,200    134,800       43      35,100     34,800     43,400       24           55,900     61,600     87,900       57
+Assault                 36,100     53,300     88,400      145      17,000     24,100     38,500      126           17,700     26,200     46,200      161
+Other violent/b         11,300     12,400     19,800       75       6,200      7,000     11,100       79            4,400      4,900      8,000       82
+                                                                                
+Property offenses      140,100    173,700    237,400       69%     75,100     95,200    130,700        7%          60,600     72,400    100,200       65%
+Burglary                74,500     87,200    111,700       50      40,700     49,800     62,300       53           31,200     34,600     46,400       49
+Larceny                 27,100     34,800     50,300       86      11,800     17,300     25,600      117           14,200     16,700     23,800       68
+Motor vehicle theft      6,300     14,400     22,400      256       3,800      7,900     12,700      234            2,400      5,900      8,900      271
+Fraud                   17,200     20,200     27,000       57      10,300     10,900     14,700       43            6,700      8,400     11,400       70
+Other property/c        14,900     17,100     26,000       74       8,500      9,300     15,300       80            6,000      6,900      9,700       62
+                                                                                
+Drug offenses           38,900    148,600    224,900      478%     21,200     61,000     86,100      306%          16,600     83,400    134,000      707%
+                                                                                
+Public-order offenses/d 23,000     45,500     66,100      187%     14,900     29,800     39,000      162%           7,600     13,700     25,000      229%
+                                                                                
+Other/unspecifiede      3,200       3,100      3,000        6%      1,800      1,600        500      72%            1,400      1,500      2,300       64%
+-----------------------------------------------------------------------------------------------------------------------------------------------------------                                                   
+                                                                      
+Note: Offense distributions for yearend 1985 and 1990 are based
+on data from the Survey of Inmates in State Correctional Facilities,
+conducted in, March 1986 and August 1991.  The offense distributions for
+yearend 1995 were estimated using stock-flow methods procedures that combine
+the estimates for yearend 1990 by offense and race with estimates of 
+admissions and releases obtained in the National Corrections
+Reporting Program, 1991-95.  See Methodology for further details on these
+procedures.    
+a/Includes nonnegligent manslaughter.   
+b/Includes extortion, intimidation, criminal endangerment, and
+other violent offenses.   
+c/Includes possession and selling of stolen property, destruction
+of property, trespassing, vandalism, criminal tampering, and 
+other property offenses.
+d/Includes weapons, drunk driving, escape, court offenses, 
+obstruction, commercialized vice, morals and decency charges, 
+liquor law violations, and other public-order offenses.
+e/Includes juvenile offenses and unspecified felonies.                                                                  
+*********************************************************************************************************************************************************                                               
+
+The number of drug offenders in State prisons rose sharply
+during this 10-year period. By 1995 nearly 6 times as many
+inmates were serving time in State prisons for drug offenses 
+(224,900) as in 1985 (38,900).
+
+In absolute numbers, however, the largest growth in State
+inmates was  among violent offenders. Between 1985 and 1995 the
+number of violent offenders grew by 211,400, while the number of
+drug offenders grew by 186,000. As a percentage of the total
+growth in sentenced State inmates during the period, violent
+offenders accounted for 39% of the total growth, drug offenders
+35%, property offenders 18%, and public-order offenders 8%.
+
+Since 1990 the patterns of growth in the four major offense
+categories have shifted among State inmates. Between 1990 and
+1995, the annual increase in drug offenders averaged  8.6%, down
+from 30.7% recorded in the previous 5 years. The average annual
+increase in public-order offenders also declined--from 14.6% per
+year to 7.8%.  Offsetting this slower increase of drug and
+public-order offenders, there has been a rise in the growth
+rates for violent offenders (from 5.0% per year to 7.9%) and 
+property offenders (from 4.4% per year to 6.4%).
+
+
+             Average  annual percent 
+             increase in State prisoners*          
+            ------------------------------
+              1985-90       1990-95 
+
+Total             8.7%        7.6% 
+
+Violent           5.0         7.9 
+
+Property          4.4         6.4 
+
+Drug             30.7         8.6 
+
+Public-order     14.6         7.8 
+****************************************
+*Based on the estimated number of  
+State inmates with sentences of more 
+than 1 year in custody  at yearend.               
+--------------------------------------------
+
+***********************************
+Sources of growth differ for white 
+and black State inmates
+***********************************
+
+Detailed estimates of the offense distributions of State inmates
+at yearend 1985, 1990, and 1995 reveal differences in the
+sources of growth among  white and black inmates. During the
+10-year period, the number of black inmates serving time for
+drug offenses rose by an estimated 117,400, while the number of
+white inmates in for drug offenses rose by 64,900. Overall, the
+increasing number of drug offenders accounted for 42% of the
+total growth among black inmates and 26% of the growth among
+white inmates.
+
+In contrast, violent offenders accounted for the largest source
+of growth among white inmates--up 102,900 in 10 years--totaling
+42% of the overall increase among white inmates. The number of
+black inmates serving time for violent offenses rose by about
+the same amount (103,800)  but accounted for only 37% of  the
+total increase in black inmates.
+
+***********************************
+Changing Federal prison population 
+related to drug and weapons
+violations 
+***********************************
+
+Prisoners sentenced for drug offenses constituted the single
+largest group of Federal inmates (60%) in 1995, up from 34% in
+1985. The increase of more than 42,000 drug offenders accounted
+for more than 80% of the total growth in Federal inmates. 
+
+************************************************************************************
+Table 14.  Number and percent of sentenced inmates in Federal 
+prisons,  by offense, 1985 and 1995                              
+                              
+                       Number of inmates/a         Percent of inmates  
+                       ---------------------       -------------------------
+Most serious offense        1985     1995          1985      1995 
+-----------------------------------------------------------------------                             
+     Total        	  31,364    88,101          100%      100%     
+                              
+Violent offenses	   7,768    11,321         28.1%     13.1%     
+Homicide        	     993       966          3.6       1.1 
+Assault              	     546     2,633          2.0       3.0 
+Robbery            	   5,417     6,341         19.6       7.3 
+Other violent       	     812     1,381          2.9       1.6 
+                              
+Property offenses   	   5,289     7,524         19.2%      8.7%
+Burglary                     292       164          1.1       0.2
+Fraud              	   2,805     5,629         10.2       6.5
+Other property             2,192     1,731          7.9       2.0
+                         
+Drug offenses              9,482    51,737         34.3%     59.9%
+                         
+Public-order offenses      2,514    15,762          9.1%     18.3%
+Immigration                  865     3,612          3.1       4.2
+Weapons                      926     7,519          3.4       8.7
+Escape/court                 215       367           .8        .4
+Other public-order           508     4,264          1.8       4.9
+                         
+Other/b                    2,554         0          9.3%       0
+                          
+Unknown                    3,757     1,757              
+-----------------------------------------------------------------------                   
+Note: Data for September 30, 1985, are from table A-9 of 
+Statistical Report, Federal Bureau of Prisons.  Data for 
+December 31, 1995,                      
+are from the Federal justice database.                           
+a/Includes prisoners of any sentence length.                     
+b/Includes offenses not classifiable or not a violation                         
+of the United States Code.                        
+***********************************************************************************
+
+Between 1985 and 1995 the percentage of violent Federal inmates
+declined sharply, from 28% to 13%. As a percentage of all
+Federal inmates, robbers showed the largest decline, from 19.6%
+in 1985 to 7.3% in 1995. 
+
+Since 1985 the number of Federal inmates serving time for
+weapons offenses has soared, from 926 inmates in 1985 to 7,519
+in 1995. By yearend 1995 weapons offenders constituted the
+second largest group of Federal inmates.
+
+
+
+********************************************************************
+Recent rise in State prison populations may be the result of
+increasing time served
+*********************************************************************
+
+Data on prison admissions and releases collected annually in the
+National Corrections Reporting Program (NCRP) reveal that growth
+in the State prison population has not been the result of longer
+sentences. Between 1985 and 1995 the average (mean) maximum
+sentence of prisoners actually declined from 78 months to 66
+months. The median sentence length (the 50th percentile) of
+prisoners admitted from court remained constant at 48 months.
+
+---------------------------------------------------------------------
+Table 15. State prison admissions and releases:  Trends in 
+sentencing and time served, 1985, 1990, and 1995                      
+                         
+                                                    Preliminary    
+New court commitmentsb        1985         1990     1995/a     
+---------------------------------------------------------------------
+  Most serious 
+  offense (percent)                        
+Violent                       35.1%        27.2%     29.5% 
+Drug                          13.2         32.0      30.9 
+
+Maximum sentence/c                       
+Mean                           78 mo       70 mo     66 mo     
+Median                         48          48        48   
+                         
+10 years or more (percent)    19.7%        17.9%     17.1% 
+                         
+Minimum time to be servedd                        
+Mean                           31 mo       38 mo     43 mo     
+Median                         18          24        24   
+                            
+  First releasese                         
+Most serious offense (percent)                         
+Violent                        31.9%       25.3%     26.6% 
+Drug                           12.4        27.5      32.1 
+
+Maximum sentence                        
+Mean                           65 mo       65 mo     58 mo     
+Median                         36          48        37   
+
+Time served in prison/f                       
+Mean                           20 mo       22 mo     24 mo     
+Median                         14          13        15   
+                         
+10 years or more (percent)    0.6%         1.4%      1.4%  
+-------------------------------------------------------------------                       
+Note: Data were obtained from the National Corrections      
+Reporting Program, 1985, 1990, and 1995.                   
+a/Preliminary data based on 30 States with admissions records 
+and 29 States and the District of Columbia with release records.
+b/Persons entering prison directly from a sentence by a court. 
+c/The maximum sentence length for the most serious offense.  
+dThe estimated shortest time that each admitted prisoner is 
+expected to serve before becoming eligible for first release.
+e/Excludes persons who had previously been conditionally released
+from prison and then were returned to prison for the same
+offense.                 
+f/Excludes time spent in jail and credited to the current
+sentence.                     
+
+****************************************************************************************************
+Moreover, despite the increasing use of mandatory minimums and
+sentencing enhancements during the period, the percentage of
+inmates who received a maximum sentence of 10 years or longer
+actually declined (from 19.7% in 1985 to 17.1% in 1995).
+
+The NCRP data also suggest that time served by State prisoners
+may be increasing. Preliminary data for 1995 show that State
+prisoners released for the first time on their current offense
+(that is, first releases) served on average 24 months in prison
+and 5 months in jail. The amount of time served in prison was 4
+months shorter in 1985 (20 months) and 2 months shorter in 1990
+(22 months). These data reflect the time served by prisoners
+actually released.  Some prisoners will never be released but
+will die in prison, and some with very long sentences will not
+show up among released prisoners for many years.  As result,
+these measures of time served tend to understate the actual time
+served by persons entering prison.
+
+Data on the projected average minimum time to be served by
+persons entering prison also suggest that time served may be
+increasing.  In 1995, taking into account parole eligibility
+requirements, good-time credits, and other early release
+allowances, persons entering State prison were expected to
+served an average of 43 months in prison, up from 38 months in
+1990 and 31 months in 1985.
+
+********************************************************
+State prison admission and release rates have dropped 
+********************************************************
+
+Underlying the steady growth in the State prison population
+since 1990 has been a drop in the rates of prison admission and
+release.  Between 1985 and 1990 admissions to State prison rose
+sharply--at an average rate of nearly 14% per year. Since 1990,
+however, these increases have slowed considerably, averaging
+only 2.5% per year. Relative to the number of inmates in prison,
+the number of admissions dropped from 76 per 100 State prisoners
+in 1989 to 56 per 100 in 1995.
+
+
+-----------------------------------------------------------------------------------------------------
+Table 16. Trends in State prison admissions and releases, 1985-95 
+                                                                     
+              Admissions to State prison               Releases from State prison        
+                                 Percent                                   Percent of all releases       
+                      Admission  new court                      Release     Parole     Mandatory
+Year      Number       rate/a    commitments     Number         rate/b      board      release
+--------------------------------------------------------------------------------------------------------                                                                      
+1985      240,598        57.9%     76.1%         206,988        31.5%        42.5%     30.4%
+1986      273,402        61.0      74.4          233,706        32.4         42.6      30.7
+1987      307,519        61.4      73.4          274,178        34.6         40.1      30.8
+1988      347,028        66.6      70.7          305,031        35.1         39.8      30.3
+1989      423,897        75.6      70.3          350,804        35.6         38.4      30.3
+                                                                      
+1990      460,739        72.7      70.1          405,374        37.0         39.4      28.8
+1991      466,285        67.6      68            421,687        36.5         39.7      29.9
+1992      480,676        65.6      69.5          430,198        35.5         39.5      29.5
+1993      475,100        60.9      66.9          417,838        33.3         38.8      31.6
+1994/c    498,919        58.0      64.5          418,372        30.8         35.0      35.6
+                                                                      
+1995      521,970        55.7      64.7          455,139        31.2         32.3      39.0
+-------------------------------------------------------------------------------------------------------                                                                     
+Note: Releases exclude escapees, AWOL's, and transfers.  All data
+are limited to prisoners with a sentence of more than 1 year.
+a/The number of admissions per 100 State prisoners at the beginning of each year.                                     
+b/The number of releases per 100 State prisoners at the
+beginningof each year plus the number admitted during the year.
+c/Releases in Alaska, by type, were estimated for 1994.     
+
+--------------------------------------------------------------------------------------------------------------                                                            
+The rate of release from State prisons rose steadily from 1985
+to 1990 and then declined. The number of persons released each
+year relative to the number of persons in prison during the year
+(that is, the number of inmates at the beginning of the year
+plus those admitted during the year) was highest in 1990 (37 per
+100) and lowest in 1994 and 1995 (31 per 100).
+
+The rates of release have dropped for all types of offenders. In
+general, for major offense categories, the percent  discharged
+of all persons in prison during the year declined between 1991
+and 1995. Release rates for violent offenders dropped from 23%
+to 20%; for property offenders from 47% to 38%; for drug
+offenders from 42% to 38%; and for public-order offenders from
+44% to 39%. These rates are further evidence that time served in
+prison may be increasing for all types of offenders in State
+prison.
+
+***************************************************************************************************
+Table 17.  Estimated rate of release from State prison,
+by the most serious offense, 1991-95
+
+
+                        Percent of prisoners released
+                        ----------------------------------------
+Most                                                  Preliminary
+serious offense		1991    1992    1993    1994   1995
+------------------------------------------------------------------------------
+  Total			36.5%	35.5%	33.3%	30.8%	31.2%
+					
+Violent offenses	23.0%	22.3%	20.9%	19.1%	20.0%
+Murder*			 8.8	 7.4	 6.6	 5.7	b5.8
+Manslaughter		21.4	24.4	21.2	20.0	19.1
+Rape			20.7	20.3	18.0	16.5	16.6
+Other sexual assault	19.1	18.7	18.0	16.6	18.1
+Robbery			29.6	28.2	26.6	24.3	25.8
+Assault			29.4	29.1	27.7	25.4	26.2
+Other violent		21.8	22.7	21.7	21.2	23.6
+					
+Property offenses	46.6%	45.3%	41.6%	39.1%	37.7%
+Burglary		44.7	42.3	39.8	37.1	36.1
+Larceny			54.7	54.7	48.1	45.0	43.4
+Motor vehicle theft	41.0	37.4	37.5	37.1	39.5
+Fraud			46.6	46.4	41.0	39.2	34.1
+Other property		41.5	43.3	40.0	36.6	33.8
+					
+Drug offenses		42.4%	41.3%	40.8%	36.9%	38.5%
+					
+Public-order offenses	43.8%	43.1%	40.1%	39.6%	38.8%
+------------------------------------------------------------------------------
+					
+Note:  All data are estimated based on prisoners with sentences 
+of more than 1 year under State jurisdiction.  For each offense 
+and year, the percent released is the number of inmates released 
+during the year divided by the number at beginning of the year 
+plus the number admitted during the year.  All offense distributions 
+were estimated using stock-flow methods that combine data from NPS 
+and NCRP.  See Methodology for a description of these methods.					
+*Includes nonnegligent manslaughter.					
+					
+
+
+
+********************************
+Methodology
+********************
+
+
+------------------------------------
+National Prisoners Statistics (NPS)
+------------------------------------
+
+The Bureau of Justice Statistics, with the U.S. Bureau of the
+Census as its collection agent, obtains yearend and midyear
+counts of prisoners from departments of correction in each of
+the 50 States, the District of Columbia, and the Federal Bureau
+of Prisons. In an effort to collect comparable data from all
+jurisdictions, NPS distinguishes between prisoners in custody
+from those under jurisdiction. To have custody of a prisoner, a
+State must hold that person in one of its facilities. To have
+jurisdiction, a State has legal authority over the prisoner.
+Prisoners under a State's jurisdiction may be in the custody of
+a local jail, another State's prison, or other correctional
+facility.  Some States are unable to provide both custody and
+jurisdiction counts. (See NPS jurisdiction notes.)
+
+Excluded from NPS counts are persons confined in locally
+administered confinement facilities who are under the
+jurisdiction of local authorities. NPS counts include all
+inmates in State-operated facilities in Alaska, Connecticut,
+Delaware, Hawaii, Rhode Island, and Vermont, which have 
+combined jail-prison systems.
+
+----------------------------------
+Estimating offense distributions
+----------------------------------
+
+The offense distributions of State prisoners at yearend are
+estimated for 1985, 1990, and 1995. Inmate surveys, conducted in
+March 1986 and August 1991, provide estimates for the custody
+populations at yearend 1985 and 1991. When combined with counts
+by offense of annual admissions and releases, these surveys
+provide the basis for estimating the offense distributions of
+the other years.
+
+The offense distributions were estimated using the following
+forward and backward stock-flow procedures:
+
+1. To obtain a base population for each survey year, survey
+estimates were applied to counts of the total sentenced
+jurisdictional populations for the survey year. The 1986 survey
+provided estimates for yearend 1985, and the 1991 survey for
+yearend 1991.
+
+2. To obtain flow populations for each year, the offense
+distributions of admissions and releases(in percents) were drawn
+from annual reports of the National Corrections Reporting
+Program (1985-95).  These percents were then multiplied by the
+total number of admissions and releases of sentenced prisoners
+to obtain an estimate of the number of admissions and releases
+by type of offense for each year.
+
+3. Forward estimates of the number of inmates at yearend in
+non-survey years were estimated iteratively by adding admissions
+and subtracting releases from the base populations. The
+estimated end of year distribution was then used as the base
+population for the next year.  The process was then repeated
+until the subsequent survey year was reached.  Data from the
+1986 survey were used for forward estimates for 1986-90, and
+data from the 1991 survey, for 1992-95.
+
+4. Backward estimates were obtained iteratively by adding
+releases and subtracting admissions from the yearend base
+population. The estimated distribution was then used as the base
+population for the preceding year. This process was repeated
+until the previous survey year was reached. Data from the 1991
+survey were used to estimate data for 1990 back to 1986.
+
+5. Final estimates were obtained by calculating a weighted sum
+of the forward and backward estimates. The forward and backward
+estimates were weighted inversely to the elapsed number of years
+from the base population and then summed. Forward weights were
+reduced by one-sixth for each year after the base survey year,
+and backward weights were reduced by one-sixth for each year
+preceding the base survey year. The final estimates were then
+converted to proportions.
+
+6. Because the 1986 and 1991 survey estimates were based on
+custody counts, the final estimates (which were based on the
+sentenced jurisdictional counts) were then converted to custody
+counts.  To estimate the number of inmates by offense, the total
+number of inmates in physical custody was multiplied by the
+proportion of inmates in each offense category.
+
+These procedures were extended to provide detailed estimates for
+white and black inmates. Estimates by race from the 1986 and
+1991 were applied to yearend totals for 1985, 1990 and 1991. 
+Flow populations by race for each year from 1992 through 1995
+were drawn from the NCRP. In each year the percents by race were
+multiplied by the offense distributions of all admissions and
+releases to obtain estimates of the total flows by race.
+Estimates of the number of inmates by race at yearend for 1992
+were then calculated by adding admissions and subtracting
+releases from the base populations. The estimated end of year
+distribution was then used as the base for the next year. The
+process was repeated for each year through 1995.
+
+-------------------------------------
+Estimating release rates by offense
+-------------------------------------
+
+The estimated offense distributions of all sentenced inmates for
+admissions and releases were also used to calculate annual
+release rates for 1991 through 1995. For each offense and
+year,the percent released was calculated by dividing the number
+of inmates released during the year by the number in prison at
+the beginning of the year plus the number admitted during the
+year. The rate of release represents the percent released of all
+persons in prison at some time during the year. 
+
+**************************
+NPS jurisdiction notes
+**************************
+
+Alabama--Population counts also include 444 inmates in community 
+programs, but the capacity ofthese community programs is excluded 
+from the capacity figures.
+
+Alaska--Prisons and jails form one integrated system. All NPS
+data include both jail and prison populations .
+
+Arizona--Population counts are based on custody data.
+
+Arkansas--Population counts for "Inmates with a sentence of 1
+year or less" include 335 male inmates incarcerated in the 
+county jail awaiting transfer to the Department of Correction, 
+for whom sentence length is unknown.  
+
+California--Population counts for "Inmates with over 1 year 
+maximum sentence" include felons who are temporarily absent, 
+such as in court, jail, or hospital. These inmates were not
+included in counts for December 31, 1995.
+
+Population counts for "Unsentenced inmates" include civil
+addicts who are temporarily absent.  These inmates were not
+included  counts for the December 31, 1995 .
+
+Colorado--Population counts for "Inmates with over 1 year 
+maximum sentence" include an undetermined number of 
+"Inmates with a sentence of 1 year or less."
+
+Connecticut--Prisons and jails form one integrated system.  All
+NPS data include both jail and prison populations.
+
+Legislation in July 1995 abolished the capacity law so prisons
+no longer have a rated and operational capacity.  Design
+capacity is recorded separately in each facility.
+
+Delaware--Prisons and jails form one integrated system.  All NPS
+data include  both jail and prison populations.
+
+Capacity counts include  DOC  halfway houses.
+
+District of Columbia--Prisons and jails form one integrated
+system. All NPS data include both jail and prison populations.
+
+Federal--The rated capacity of Federal facilities excludes
+contract bed spaces.
+
+Florida--Population counts are based on custody data.
+
+Population counts for "Inmates with a sentence 1 year or less" 
+include persons with a sentence of 365 days.
+
+Georgia--Population counts are based on custody data.
+
+Population counts exclude an undetermined number of inmates
+housed in local jails awaiting transfer to prison. 
+
+Hawai--Prisons and jails form one integrated system. All NPS
+data include both jail and prison populations.
+
+Illinois--Population counts are based on custody data.
+
+Population counts for "Inmates with over 1 year maximum
+sentence" include an undetermined number of inmates with a
+sentence of 1 year.
+
+Population counts and capacity figures include 651 male inmates
+and 122 female inmates on electronic detention.
+
+Iowa--Population counts are based on custody data.
+
+Population counts for "Inmates with over 1 year maximum
+sentence(s)" include an undetermined number of "Inmates with a
+sentence of 1 year or less" and "Unsentenced inmates." 
+
+Kansas--Population counts for "Inmates with over 1 year maximum
+sentence(s)" include a small undetermined number of inmates with
+incarceration sentences of less than 1 year as a result of
+sentencing under the Kansas Sentencing Guidelines Act of 1993.
+
+Kentucky--Capacity decreased  in 1996 because private contract
+prisons were excluded.
+
+Louisiana--Operational capacity is no longer defined as court
+ordered capacity, instead it is based on day-to-day operation.
+Rated and operational capacities include contractual work
+release facilities.
+
+Maryland--While population totals are actual counts, the
+breakdowns by sentence length are estimates based on actual
+sentence length breakdowns extracted from the automated data
+system and then applied to the manual data.
+
+Massachusetts--Population counts are as of January 5, 1997, and
+crowding counts are as of January 6, 1997.
+
+Population counts include 596 male inmates and 21 female inmates
+housed in local jails and 269 male inmates housed out of state
+as of January 6, 1997, due to crowding in State prison
+facilities.
+
+Population totals are actual counts, however, when sex or
+sentencing information is missing, the counts are estimated.  
+
+Michigan--Population counts are based on custody data and
+include adult prisoners housed in Michigan's institutions,
+camps, community correctional centers, and on electronic
+monitoring.
+
+Nevada--Under a new law, an inmate serves an indeterminate
+sentence containing a minimum sentence to be served before
+parole eligibility. The shortest minimum sentence is 1 year, but
+that only advances an inmate to parole eligibility. Therefore,
+since an inmate cannot discharge his or her sentence in 1 year
+or less, "Inmates with a sentence of 1 year or less" is now
+reported "Not Applicable."
+
+Nevada reports their emergency capacity as rated capacity.
+Capacity levels increase in size from design to operational and
+finally to emergency capacity.
+
+New Hampshire--The rated capacity is 1,886, but due to a
+legislative 
+cap, 125 beds are unusable,which makes the actual capacity 1,761. 
+
+New Jersey--Population counts for "Inmates with over 1 year 
+maximum sentence" include inmates with
+sentences of 1 year. 
+
+North Carolina--While population totals are actual counts, the
+breakdowns by sentence length are estimates believed to be
+accurate within 1% of the actual counts.
+
+Rated and design capacities during 1996 because several small
+prisons built in the 1930's were closed.
+
+Ohio--Population counts for "Inmates with over 1 year maximum
+sentence" include an undetermined number of inmates with a
+sentence of 1 year or less.
+
+Oklahoma--Population counts for "Inmates with over 1 year
+maximum sentence" may include a small undetermined number of
+inmates with a sentence of 1 year. 
+
+Population counts exclude 227 male inmates and 58 female inmates
+housed in local jails as of December  31, 1996, due to crowding
+of State prison facilities because these inmates had not been
+received by the Department of Corrections. 
+
+Oregon--Population counts for "Inmates with a sentence of 1 year
+or less" include an undetermined number of inmates for whom
+sentence length is unknown because complete sentencing orders
+may not have arrived for some recently-admitted inmates.
+
+Pennsylvania--Reported capacities are single cell capacities.
+
+Rhode Island--Prisons and jails form one integrated system. All
+NPS data include both jail and prison populations.
+
+Population counts for "Inmates with over 1 year maximum
+sentence" include inmates with partially suspended sentences
+only if the prison portion of the sentence exceeds one year. As
+a result, the "Inmates with over 1 year maximum sentence"
+population is understated, and the "Inmates with a sentence of 1
+year or less" population is overstated.
+
+South Carolina--Population counts for "Unsentenced inmates"
+include inmates on Youthful Offender Act observation status.  
+
+Tennessee--Population counts for "Inmates with over 1 year 
+maximum sentence" include an undetermined number of inmates 
+with a sentence of 1 year.  
+
+Population  counts exclude an undetermined number of felons
+sentenced to serve their time in local jails.  The State pays to
+house these felons, but the local court maintains jurisdiction.
+
+Texas--Population counts for "Inmates with over 1 year maximum
+sentence" include an undetermined number of "Inmates with a
+sentence of 1 year or less."
+
+Vermont--Prisons and jails form one integrated system. NPS data
+include both jail and prison populations.
+
+Population counts are based on custody data. Population counts
+and capacity measures exclude 660 inmates on furlough or
+intermediate sanctions.
+
+Virginia--Population counts for "Inmates with a sentence of 1
+year or less" increased because of a new law that went into
+effect on January 1, 1995, that made the State responsible for
+felons with a sentence of 6 months or more.
+
+Virginia uses a base capacity method to determine the rated,
+operational, and design capacity figures. Under this method of
+determining capacity, only the bunks that touch the floor are
+counted; top bunks are not counted.
+
+Washington--Reported capacities exclude State work release and
+pre-release facilities which housed 765 male inmates and 269
+female inmates on December 31, 1996.  
+
+*********************************
+The Bureau of Justice Statistics 
+is the statistical agency of the 
+U.S. Department of Justice.
+*********************************
+
+Jan M. Chaiken, Ph.D., is director.
+
+BJS Bulletins present the first release of findings from
+permanent data collection programs such as the National Prisoner
+Statistics Program. State and Federal corrections officials have
+cooperated in reporting the data presented. 
+
+Allen J. Beck, Ph.D., and Christopher J. Mumola wrote this
+report.  Deborah A. Dworanczyk and Darrell K. Gilliard provided
+statistical review. Tom Hester edited the report.  Marilyn
+Marbrook, assisted by Yvonne Boston and Jayne Robinson, 
+administered  final production.
+
+Data collection and processing for the NPS program were carried
+out by Elizabeth K. Griffin under the supervision of Gertrude
+Odom and Kathleen Creighton, Demographic Surveys Division, U.S.
+Bureau of the Census.
+
+June 1997, NCJ-164619
+
+---------------------------
+
+***********************************************
+The report and NPS data are available 
+on the Internet: http://www.ojp.usdoj.gov/bjs/
+**********************************************
+
+
+
+
+END OF FILE
+

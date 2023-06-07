@@ -1,0 +1,74 @@
+Bureau of Justice Statistics,,,,,,,,,,
+Filename: p17t06.csv,,,,,,,,,,
+"Table 6. Imprisonment rates of sentenced prisoners under jurisdiction of state or federal correctional authorities per 100,000 U.S. residents, by jurisdiction and sex, 2016 and 2017",,,,,,,,,,
+Report title: Prisoners in 2017  NCJ 252156,,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2016 and 2017; and U.S. Census Bureau, post-censal resident population estimates for January 1 of the following calendar year.",,,,,,,,,,
+"Authors: Jennifer Bronson, Ph.D., and E. Ann Carson, Ph.D., BJS Statisticians",,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,
+Date of version: 4/25/2019,,,,,,,,,,
+,,,,,,,,,,
+"Table 6. Imprisonment rates of sentenced prisoners under jurisdiction of state or federal correctional authorities per 100,000 U.S. residents, by jurisdiction and sex, 2016 and 2017",,,,,,,,,,
+,,2016,,,,,2017,,,
+Jurisdiction,,Total,Male,Female,Total adult/a,,Total,Male,Female,Total adult/a
+,U.S. total/b,450,847,64,582,,440,829,63,568
+Federal/c,,53,100,7,68,,51,96,7,66
+State/b,,397,747,57,513,,390,733,57,503
+,Alabama,571,"1,085",88,737,,486,930,70,626
+,Alaska/d,282,511,30,376,,258,473,22,343
+,Arizona,587,"1,072",106,766,,569,"1,039",105,740
+,Arkansas,583,"1,094",90,763,,598,"1,122",92,781
+,California/e,327,629,29,425,,328,630,29,424
+,Colorado,357,641,69,461,,351,630,68,452
+,Connecticut/d,289,560,31,365,,268,522,26,338
+,Delaware/d,427,839,41,543,,420,830,37,533
+,Florida,480,914,64,601,,466,887,62,582
+,Georgia,511,977,70,675,,506,966,70,666
+,Hawaii/d,254,456,50,323,,240,441,38,305
+,Idaho,434,754,113,586,,447,777,114,601
+,Illinois,340,651,40,441,,324,623,35,418
+,Indiana,384,711,65,503,,389,716,71,509
+,Iowa,287,524,52,374,,285,522,51,372
+,Kansas,331,609,55,438,,332,608,57,439
+,Kentucky,518,917,130,670,,527,933,133,682
+,Louisiana,761,"1,469",83,997,,719,"1,387",82,942
+,Maine,137,256,22,169,,134,250,22,165
+,Maryland,328,649,26,422,,317,625,27,407
+,Massachusetts,156,307,13,195,,120,239,9,150
+,Michigan,413,794,44,529,,397,763,42,508
+,Minnesota,191,355,28,249,,191,357,26,249
+,Mississippi,625,"1,202",82,823,,619,"1,189",84,812
+,Missouri,532,972,107,688,,532,970,109,687
+,Montana,365,647,79,467,,350,617,79,447
+,Nebraska,273,505,43,364,,273,503,44,362
+,Nevada,459,832,83,596,,451,817,84,584
+,New Hampshire,210,391,34,261,,204,378,33,253
+,New Jersey,220,432,18,282,,217,427,17,278
+,New Mexico/f,334,607,66,437,,344,620,73,448
+,New York,255,502,22,323,,249,488,22,314
+,North Carolina,339,645,48,437,,341,649,50,439
+,"North Dakota/f,g",235,404,57,307,,226,391,53,295
+,Ohio,448,834,77,578,,441,822,74,567
+,Oklahoma/e,752,"1,344",171,996,,704,"1,262",157,931
+,Oregon/e,368,679,63,467,,364,671,63,461
+,Pennsylvania,383,737,43,484,,375,721,43,473
+,Rhode Island/d,192,381,12,239,,170,337,13,212
+,South Carolina,408,783,54,523,,386,743,50,494
+,South Dakota,441,761,116,586,,453,776,124,601
+,Tennessee,422,782,79,545,,429,789,87,553
+,Texas,562,"1,038",92,760,,553,"1,022",89,746
+,Utah/e,201,373,27,287,,206,377,32,292
+,Vermont/d,197,372,26,243,,180,331,33,222
+,Virginia,448,835,72,575,,437,813,73,560
+,Washington,259,473,45,333,,262,477,46,336
+,West Virginia,393,697,95,494,,392,700,89,492
+,Wisconsin,383,721,48,492,,391,732,53,501
+,Wyoming,408,703,100,534,,429,742,103,560
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Counts are for December 31 of each year and are based on prisoners with a sentence of more than one year. ",,,,,,,,,,
+"a/Imprisonment rate per 100,000 U.S. residents age 18 or older.",,,,,,,,,,
+"b/Total and state estimates for 2016 include imputed counts for North Dakota, which did not submit 2016 National Prisoner Statistics (NPS) data. Total and state estimates for 2017 include imputed counts for New Mexico and North Dakota, which did not submit 2017 NPS data. See Methodology.",,,,,,,,,,
+"c/Includes prisoners held in non-secure, privately operated community corrections facilities and juveniles held in contract facilities.",,,,,,,,,,
+d/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,,,
+e/State submitted updated 2016 population counts.,,,,,,,,,,
+f/State did not submit 2017 NPS data. Counts were imputed for the calculation of 2017 rates and should not be compared to 2016 rates.,,,,,,,,,,
+g/State did not submit 2016 NPS data. Counts were imputed for the calculation of 2016 rates and should not be compared to 2017 rates.,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2016 and 2017; and U.S. Census Bureau, post-censal resident population estimates for January 1 of the following calendar year.",,,,,,,,,,

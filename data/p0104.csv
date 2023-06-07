@@ -1,0 +1,87 @@
+"Bureau of Justice Statistics",,,,
+"Filename:  p0104.csv",,,,
+"Table #4:  Sentenced prisoners under the jurisdiction of State or Federal correctional authorities, yearend 2000 and 2001",,,,
+"Report title:  Prisoners in 2001  NCJ 195189",,,,
+"Data source:  National Prisoner Statistics",,,,
+"Refer questions to:  askbjs@ojp.usdoj.gov  202-307-0765",,,,
+"Contact:  Allen Beck or Paige Harrison",,,,
+"Date of version:  7/5/02",,,,
+,,,,
+,,,,
+"Table 4.  Sentenced prisoners under the jurisdiction of State or Federal correctional authorities, yearend 2000 and 2001",,,,
+,,,,
+,"Sentenced to more than 1 year",,,
+,,,"Percent change, 2000-2001","Incarceration rate/a"
+,,,,
+,"Advance 2001",2000,,
+,,,,
+"      U.S. total",1344512,1329367,1.1,470
+,,,,
+"    Federal",136509,125044,9.2,48
+"    State",1208003,1204323,0.3,422
+,,,,
+"  Northeast",163639,166632,-1.8,304
+"    Connecticut",13276,13155,0.9,387
+"    Maine",1641,1635,0.4,127
+"    Massachusetts/b",9358,9479,-1.3,243
+"    New Hampshire",2392,2257,6.0,188
+"    New Jersey/c",28142,29784,-5.5,331
+"    New York",67534,70199,-3.8,355
+"    Pennsylvania",38057,36844,3.3,310
+"    Rhode Island",1926,1966,-2.0,181
+"    Vermont",1313,1313,0.0,213
+,,,,
+"  Midwest",239678,236458,1.4,370
+"    Illinois/c",44348,45281,-2.1,355
+"    Indiana",20883,19811,5.4,341
+"    Iowa/c",7962,7955,0.1,272
+"    Kansas/c",8577,8344,2.8,318
+"    Michigan",48849,47718,2.4,488
+"    Minnesota",6606,6238,5.9,132
+"    Missouri",28736,27519,4.4,509
+"    Nebraska",3865,3816,1.3,225
+"    North Dakota",1017,994,2.3,161
+"    Ohio/c",45281,45833,-1.2,398
+"    South Dakota",2803,2613,7.3,370
+"    Wisconsin",20751,20336,2.0,383
+,,,,
+"  South",539580,537086,0.5,526
+"    Alabama",26138,24123," -- ",584
+"    Arkansas",12076,11851,1.9,447
+"    Delaware",4034,3937,2.5,504
+"    District of Columbia/d",795,5008," -- "," -- "
+"    Florida",72398,71318,1.5,437
+"    Georgia",45904,44141,4.0,542
+"    Kentucky",15104,14919,1.2,371
+"    Louisiana",35710,35207,1.4,800
+"    Maryland",22842,22490,1.6,422
+"    Mississippi",20476,19239,6.4,715
+"    North Carolina",27632,27043,2.2,335
+"    Oklahoma/c",22780,23181,-1.7,658
+"    South Carolina",21606,21017,2.8,529
+"    Tennessee/c",23671,22166,6.8,411
+"    Texas/c",153056,158008,-3.1,711
+"    Virginia",31194,29643,5.2,431
+"    West Virginia",4164,3795,9.7,231
+,,,,
+"  West",265106,264147,0.4,408
+"    Alaska",1920,2128,-9.8,300
+"    Arizona",26463,25412,4.1,492
+"    California",157295,160412,-1.9,453
+"    Colorado",17448,16833,3.7,391
+"    Hawaii",3670,3553,3.3,298
+"    Idaho",6006,5535,8.5,451
+"    Montana",3328,3105,7.2,368
+"    Nevada",10201,10063,1.4,474
+"    New Mexico",5408,4666,15.9,295
+"    Oregon",11413,10553,8.1,327
+"    Utah",5250,5541,-5.3,230
+"    Washington",15020,14666,2.4,249
+"    Wyoming",1684,1680,0.2,340
+,,,,
+,,,,
+" -- Not calculated. ",,,,
+"a/Prisoners with sentences of more than 1 year per 100,000 residents.",,,,
+"b/The incarceration rate includes an estimated 6,200 inmates sentenced to more than 1 year but held in local jails or houses of corrections. ",,,,
+"c/Includes some inmates sentenced to 1 year or less.",,,,
+"d/Responsibility for sentenced felons was transferred to the Federal Bureau of Prisons.  (See Jurisdiction notes.)",,,,

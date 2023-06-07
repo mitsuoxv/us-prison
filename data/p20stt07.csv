@@ -1,0 +1,76 @@
+Bureau of Justice Statistics,,,,,,,,,
+Filename: p20stt07.csv,,,,,,,,,
+"Table 7. Imprisonment rates of U.S. residents, based on sentenced prisoners under the jurisdiction of state or federal correctional authorities, by sex, age, and jurisdiction, 2019 and 2020",,,,,,,,,
+Report title: Prisoners in 2020 – Statistical Tables NCJ 302776,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2019 and 2020; and U.S. Census Bureau, postcensal resident population estimates for January 1 of the following calendar year",,,,,,,,,
+"Author: E. Ann Carson, Ph.D., BJS Statistician",,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,
+Date of version: 12/14/2021,,,,,,,,,
+,,,,,,,,,
+"Table 7. Imprisonment rates of U.S. residents, based on sentenced prisoners under the jurisdiction of state or federal correctional authorities, by sex, age, and jurisdiction, 2019 and 2020",,,,,,,,,
+,,"Per 100,000 U.S. residents within each group in 2019",,,,"Per 100,000 U.S. residents within each group in 2020",,,
+,,All ages,,,,All ages,,,
+Jurisdiction,,Total,Male,Female,Age 18 or older,Total,Male,Female,Age 18 or older
+,U.S. total/a,419,789,61,539,358,678,47,459
+Federal/b,,48,91,7,62,43,81,6,55
+State/a,,371,698,54,477,315,597,42,404
+,Alabama,419,808,55,538,398,772,48,510
+,Alaska/c,243,445,23,322,246,445,28,325
+,Arizona/d,556,"1,007",111,716,495,902,94,635
+,Arkansas,585,"1,087",101,761,529,990,84,686
+,California,310,596,28,400,247,480,18,318
+,Colorado/e,342,613,67,436,277,505,45,352
+,Connecticut/c,246,474,28,308,179,350,16,224
+,Delaware/c,380,751,33,480,314,631,18,396
+,Florida,444,845,60,552,371,712,45,461
+,Georgia,507,967,72,662,433,834,55,564
+,Hawaii/c,215,389,40,272,195,355,36,247
+,Idaho,474,808,138,631,398,683,110,527
+,Illinois/e,303,580,35,389,237,459,22,304
+,Indiana,400,733,75,521,351,647,64,457
+,Iowa,293,535,53,380,262,482,43,339
+,Kansas,342,627,59,450,298,547,50,391
+,Kentucky,515,915,128,664,414,749,89,533
+,Louisiana,678,"1,317",71,885,581,"1,140",50,757
+,Maine,146,275,22,179,120,227,17,146
+,Maryland,305,605,23,391,258,515,16,330
+,Massachusetts,133,263,10,165,103,205,6,127
+,Michigan,381,733,40,485,337,651,34,429
+,Minnesota,177,331,23,229,145,275,17,189
+,Mississippi,636,"1,225",83,830,584,"1,128",74,761
+,Missouri,423,783,77,545,374,700,60,481
+,Montana/f,439,771,103,558,362,632,87,459
+,Nebraska,289,537,42,383,269,501,37,356
+,Nevada,412,743,80,530,361,659,62,464
+,New Hampshire,197,364,33,242,172,320,27,211
+,New Jersey/e,209,412,15,268,145,285,10,185
+,New Mexico,315,574,62,407,258,469,50,331
+,New York,224,440,19,282,177,351,13,223
+,North Carolina,313,596,45,400,271,519,36,346
+,North Dakota,231,399,55,303,182,315,43,239
+,Ohio/e,430,803,72,552,385,722,61,493
+,Oklahoma,621,"1,126",126,818,559,"1,020",106,734
+,Oregon/g,353,654,57,444,300,561,43,375
+,Pennsylvania,355,681,42,447,308,592,34,387
+,Rhode Island/c,156,310,11,194,131,261,7,161
+,South Carolina,352,679,46,449,304,592,36,387
+,South Dakota,426,720,127,565,362,623,96,479
+,Tennessee,384,705,78,492,328,605,64,420
+,Texas,529,978,86,710,455,848,67,608
+,Utah/d,207,374,36,290,166,307,23,232
+,"Vermont/c,h",182,341,27,223,146,279,15,178
+,Virginia,421,784,69,538,370,696,54,472
+,Washington,250,458,42,320,203,378,27,259
+,West Virginia,380,674,91,475,340,611,72,424
+,Wisconsin,378,710,49,482,320,602,40,407
+,Wyoming,426,722,118,553,358,614,91,463
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. For jurisdiction-level information, see Jurisdiction notes on the BJS website. Imprisonment rate is the number of sentenced prisoners under state or federal jurisdiction per 100,000 U.S. residents or per 100,000 U.S. residents in a given category. Rates are for December 31 of each year and are based on sentenced prisoners. Resident population estimates are from the U.S. Census Bureau for January 1, 2019 and 2020. As of December 31, 2001, sentenced felons from the District of Columbia were the responsibility of the Federal Bureau of Prisons. Multiple states reported large changes in prison populations, admissions, and releases between 2019 and 2020 due to criminal justice reforms enacted to address the COVID-19 pandemic. Because these differences were not the result of changes in reporting methods, BJS made direct comparisons of 2019 and 2020 data, understanding that the criminal justice reforms may be temporary.",,,,,,,,,
+"a/Total and state estimates for 2019 include imputed rates for Oregon, which did not submit 2019 National Prisoner Statistics (NPS) data. Estimates for 2019 also include imputed rates for Vermont, which provided total jurisdiction counts but could not break down the population by sentence length. See Methodology.",,,,,,,,,
+b/Includes adult prisoners held in nonsecure community corrections facilities and privately operated facilities and persons age 17 or younger held in privately operated facilities.,,,,,,,,,
+c/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,,
+d/State submitted updated 2019 sentenced population counts.,,,,,,,,,
+e/Includes a small number of prisoners sentenced to 1 year or less.,,,,,,,,,
+"f/After a change in prisoner tracking software at the end of 2018, Montana continued to see issues with data that render counts between 2019 and 2020 incomparable.",,,,,,,,,
+g/State did not submit 2019 NPS data. Counts were imputed for 2019. See Methodology.,,,,,,,,,
+h/State provided total jurisdiction counts for 2019 but could not break down the population by sentence length. BJS used the state-reported distribution of total jurisdiction counts by sentence length from 2018 to calculate the number of prisoners in 2019 who were sentenced to more than 1 year.,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2019 and 2020; and U.S. Census Bureau, postcensal resident population estimates for January 1 of the following calendar year.",,,,,,,,,

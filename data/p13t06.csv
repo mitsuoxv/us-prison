@@ -1,0 +1,78 @@
+Bureau of Justice Statistics,,,,,,,,,,
+Filename: p13t06.csv,,,,,,,,,,
+"Table 6. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 U.S. residents, by sex, December 31, 2012 and 2013",,,,,,,,,,
+Report title: Prisoners in 2013 NCJ 247282,,,,,,,,,,
+"Data source(s): National Prisoner Statistics Program, U.S. Census Bureau resident population estimates",,,,,,,,,,
+Author(s): E. Ann Carson,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,,,
+Date of version: 08/27/2014,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"Table 6. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 U.S. residents, by sex, December 31, 2012 and 2013",,,,,,,,,,
+,,2012,,,,,2013,,,
+Jurisdiction,,Total/a,Male/a,Female/a,Total adult/b,,Total/a,Male/a,Female/a,Total adult/b
+,"U.S. total/c,d,e",480,909,63,626,,478,904,65,623
+Federal/f,,62,119,8,81,,61,117,8,80
+"State/c,d,e",,417,790,56,545,,417,787,57,542
+,Alabama,650,"1,234",101,847,,647,"1,225",103,840
+,"Alaska/d,e,g",405,702,81,544,,364,--,--,489
+,Arizona,583,"1,070",101,773,,586,"1,077",101,775
+,Arkansas,494,934,70,651,,578,"1,087",87,760
+,California,351,674,31,463,,353,677,33,464
+,Colorado,392,715,66,514,,384,697,69,502
+,Connecticut/g,333,645,35,426,,338,654,36,431
+,Delaware/g,448,877,46,577,,442,863,49,566
+,Florida,524,999,70,661,,524,995,72,659
+,Georgia,542,"1,037",68,723,,533,"1,020",69,710
+,Hawaii/g,273,487,55,349,,257,459,50,328
+,Idaho,499,871,126,680,,466,805,127,634
+,Illinois/h,--,--,--,--,,377,722,44,492
+,Indiana/i,440,814,77,581,,454,834,85,597
+,Iowa,282,518,49,368,,279,517,45,364
+,Kansas,325,606,46,433,,328,610,48,437
+,Kentucky,489,875,114,637,,462,837,98,600
+,Louisiana,870,"1,673",101,"1,148",,847,"1,633",94,"1,114"
+,Maine,145,276,20,181,,148,282,20,185
+,Maryland,360,713,29,466,,353,697,29,456
+,Massachusetts,199,395,15,252,,192,380,15,242
+,Michigan,441,857,39,571,,441,856,41,570
+,Minnesota,184,344,26,241,,189,354,26,247
+,Mississippi,717,"1,370",100,954,,692,"1,328",91,918
+,Missouri,518,965,88,674,,521,968,90,676
+,Montana,358,633,80,459,,357,631,81,458
+,Nebraska,247,459,36,328,,263,489,38,349
+,"Nevada/h,j",--,--,--,--,,--,--,--,--
+,New Hampshire,211,396,31,266,,215,403,32,270
+,New Jersey,261,511,23,338,,252,492,22,325
+,New Mexico,315,576,59,417,,321,585,61,423
+,New York,276,545,22,352,,271,534,23,345
+,North Carolina,357,688,43,466,,356,683,44,463
+,North Dakota,213,372,49,274,,211,371,44,273
+,Ohio,440,832,65,572,,446,839,70,578
+,Oklahoma/i,648,"1,178",127,858,,659,"1,191",136,873
+,Oregon,378,700,62,485,,385,712,65,492
+,Pennsylvania,398,772,41,506,,391,759,40,497
+,Rhode Island/g,190,376,15,239,,194,384,15,243
+,South Carolina,458,888,51,593,,447,863,53,577
+,South Dakota,434,765,101,575,,428,749,104,568
+,Tennessee,438,824,71,570,,438,821,73,568
+,Texas,601,"1,121",88,820,,602,"1,120",90,819
+,Utah,242,437,45,351,,242,436,46,350
+,Vermont/g,242,468,23,302,,251,478,30,312
+,Virginia/i,451,845,69,582,,446,837,68,575
+,Washington/f,249,460,38,323,,256,472,41,332
+,West Virginia,378,681,84,477,,367,656,85,462
+,Wisconsin/i,357,680,38,463,,370,704,40,478
+,Wyoming,379,663,84,496,,395,687,91,517
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Counts are based on prisoners with sentences of more than a year under the jurisdiction of state or federal correctional officials. As of December 31, 2001, sentenced felons from the District of Columbia are the responsibility of the Federal Bureau of Prisons.",,,,,,,,,,
+"a/Imprisonment rate per 100,000 U.S. residents of all ages.",,,,,,,,,,
+"b/Imprisonment rate per 100,000 U.S. residents age 18 or older.",,,,,,,,,,
+c/Includes imputed counts for Nevada. See Methodology for imputation strategy.,,,,,,,,,,
+d/Alaska did not submit sex-specific counts in 2013. See Methodology.,,,,,,,,,,
+e/Alaska did not submit sentence length data in 2013. See Methodology.,,,,,,,,,,
+f/Includes inmates held in nonsecure privately operated community corrections facilities and juveniles held in contract facilities.,,,,,,,,,,
+g/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,,,
+h/State did not submit 2012 NPS data. See Methodology.,,,,,,,,,,
+i/Counts for 2013 are not comparable to earlier years due to a change in reporting methodology. See Jurisdiction notes for more detail.,,,,,,,,,,
+j/State did not submit 2013 NPS data. See Methodology for imputation strategy.,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics Program, 2012–2013; and U.S. Census Bureau, resident population estimates for January 1 of the following calendar year.",,,,,,,,,,

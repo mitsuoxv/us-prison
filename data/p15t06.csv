@@ -1,0 +1,74 @@
+Bureau of Justice Statistics,,,,,,,,,,
+File name: p15t06.csv,,,,,,,,,,
+"Table 6. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities, by sex, December 31, 2014 and 2015",,,,,,,,,,
+"Report title: Prisoners in 2015,  NCJ 250229",,,,,,,,,,
+"Data source: Bureau of Justice Statistics, National Prisoner Statistics, 2015",,,,,,,,,,
+"Author: E. Ann Carson, Ph.D., BJS Statistician,  Elizabeth Anderson, BJS Intern",,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,
+Date of version: 12/29/2016,,,,,,,,,,
+,,,,,,,,,,
+"Table 6. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities, by sex, December 31, 2014 and 2015",,,,,,,,,,
+,,2014,,,,,2015,,,
+Jurisdiction,,Total/a,Male/a,Female/a,Total adult/b,,Total/a,Male/a,Female/a,Total adult/b
+,U.S. total/a,471,889,65,611,,458,863,64,593
+Federal/c,,60,113,8,78,,55,105,7,72
+State/a,,411,776,58,534,,402,758,57,521
+,Alabama,634,"1,204",98,821,,611,"1,159",97,790
+,"Alaska/d,e",281,494,44,376,,306,536,50,409
+,Arizona,592,"1,087",104,779,,596,"1,093",105,781
+,Arkansas,599,"1,125",92,786,,591,"1,109",91,774
+,California/d,348,668,32,455,,329,632,29,428
+,Colorado,382,689,71,497,,364,657,67,473
+,Connecticute,326,633,35,415,,312,607,31,396
+,Delaware/e,440,862,44,562,,441,862,46,561
+,Florida,512,973,71,642,,496,946,66,621
+,Georgia,517,989,67,685,,503,961,68,666
+,Hawaii/e,257,464,44,328,,262,469,50,335
+,"Idaho/d,f",489,851,125,663,,436,759,112,590
+,Illinois/f,375,718,44,488,,360,690,41,466
+,Indiana,443,810,86,582,,412,758,75,541
+,Iowa,282,520,47,368,,281,515,51,367
+,Kansas/d,329,609,50,437,,328,604,53,436
+,Kentucky/f,474,852,108,615,,489,875,115,634
+,Louisiana,816,"1,577",87,"1,072",,776,"1,498",85,"1,019"
+,Maine,153,290,21,189,,132,249,19,163
+,Maryland,346,683,29,446,,339,669,28,437
+,Massachusetts,188,373,15,237,,179,355,14,225
+,Michigan,437,845,42,563,,429,826,45,551
+,Minnesota,194,364,27,254,,196,366,28,256
+,Mississippi,597,"1,147",78,789,,609,"1,172",78,803
+,Missouri,526,967,100,682,,530,971,105,687
+,Montana,360,640,76,461,,355,632,76,455
+,Nebraska,283,522,45,376,,279,515,44,371
+,Nevada/g,433,787,76,564,,444,806,80,577
+,New Hampshire,219,406,36,274,,217,404,35,271
+,New Jersey,241,471,22,311,,228,447,20,293
+,New Mexico,329,600,63,432,,335,610,66,440
+,New York,265,522,23,337,,260,511,23,330
+,North Carolina,358,684,48,464,,352,672,48,455
+,North Dakota,214,369,51,278,,233,400,55,302
+,Ohio,444,832,71,574,,449,839,75,580
+,Oklahoma/d,700,"1,267",142,928,,715,"1,290",151,948
+,Oregon/g,376,696,63,480,,376,694,64,477
+,Pennsylvania,394,762,41,499,,387,746,42,489
+,Rhode Island/e,178,354,12,223,,204,408,11,254
+,South Carolina,428,827,51,552,,414,799,50,532
+,South Dakota,421,742,96,559,,413,725,97,548
+,Tennessee,437,816,77,566,,425,790,78,549
+,Texas,582,"1,079",93,790,,568,"1,050",91,769
+,Utah/d,237,426,45,341,,215,393,34,309
+,Vermont/e,241,454,33,298,,206,391,26,255
+,Virginia,449,840,71,579,,457,850,76,588
+,Washington,254,467,40,328,,252,464,40,325
+,West Virginia,373,663,89,469,,386,686,93,486
+,Wisconsin,371,701,45,479,,377,711,46,485
+,Wyoming,407,705,97,534,,413,721,93,541
+"Note: Jurisdiction refers to the legal authority of state or federal correctional officials over a prisoner, regardless of where the prisoner is held. Counts are based on prisoners with sentences of more than 1 year.",,,,,,,,,,
+"a/Total and state estimates include imputed counts for Nevada and Oregon, which did not submit 2015 data to National Prisoner Statistics (NPS). See Methodology. ",,,,,,,,,,
+"b/Imprisonment rate per 100,000 U.S. residents age 18 or older.",,,,,,,,,,
+"c/Includes prisoners held in nonsecure, privately operated community corrections facilities and juveniles held in contract facilities.",,,,,,,,,,
+d/State submitted updated 2014 population counts.,,,,,,,,,,
+e/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,,,
+f/Counts from 2015 are not comparable to counts from prior years due to a change in reporting methodology. See Jurisdiction notes.,,,,,,,,,,
+g/State did not submit 2015 data to NPS. Counts were imputed. See Methodology.,,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics, 2014–2015.",,,,,,,,,,

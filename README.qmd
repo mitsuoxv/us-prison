@@ -1,0 +1,321 @@
+---
+title: "US prison data"
+author: "Mitsuo Shiota"
+date: "2023-06-07"
+format: gfm
+execute:
+  echo: false
+---
+
+Updated: `r Sys.Date()`
+
+## Data source
+
+I have downloaded zip files on annual prison data from [Bureau of Justice Statistics](https://bjs.ojp.gov/library/publications/list?series_filter=Prisoners), extracted, and saved csv files on imprison rates and sentenced prisoners by state in `data` directory.
+
+I have also downloaded some Excel, csv, text files on state resident population from [Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html), and saved them in `data` directory.
+
+```{r}
+#| label: setup
+#| include: false
+
+library(tidyverse)
+library(readxl)
+```
+
+```{r}
+#| label: functions
+#| include: false
+
+non_state <- c(
+      "U", "Federal", "State", "Northeast", "Midwest", "South", "West",
+      "District of Columbia", "Dist"
+    )
+
+get_year <- function(path) {
+  year <- path |> 
+    str_remove("data/") |> 
+    str_sub(2, 3) |> 
+    as.numeric()
+  
+  if_else(year < 50, year + 2000, year + 1900)
+}
+
+read_t07 <- function(path, skip, n_col) {
+  year <- get_year(path)
+  
+  read_csv(path, skip = skip, na = c("", "/", "--")) |> 
+    select(2, 3, n_col) |> 
+    set_names("state", as.character(year - 1), as.character(year)) |> 
+    slice(4:53) |> 
+    mutate(state = str_extract(state, "[a-zA-Z ]+"))
+}
+
+read_at02 <- function(path, skip, year_col) {
+  year <- get_year(path)
+  
+  lines <- readLines(path) |> 
+    str_remove_all("%")
+  
+  read_csv(I(lines), skip = skip, na = c("", "~")) |> 
+    select(2, all_of(year_col)) |> 
+    rename(state = ...2) |> 
+    filter(!is.na(state)) |> 
+    mutate(state = str_extract(state, "[a-zA-Z ]+")) |> 
+    filter(!state %in% non_state) |> 
+    arrange(state)
+}
+
+read_at09 <- function(path, skip, n_col) {
+  year <- get_year(path)
+  
+  read_csv(path, skip = skip, na = c("", ":")) |> 
+    select(2, 3, n_col) |> 
+    set_names("state", as.character(year - 1), as.character(year)) |> 
+    filter(!is.na(state)) |> 
+    slice(3:52) |> 
+    mutate(state = str_extract(state, "[a-zA-Z ]+")) |> 
+    arrange(state)
+}
+
+read_at09_1 <- function(path, skip) {
+  year <- get_year(path)
+  
+  read_csv(path, skip = skip) |> 
+    select(2, 3) |> 
+    set_names("state", as.character(year)) |> 
+    filter(!is.na(state)) |> 
+    slice(3:52) |> 
+    mutate(state = str_extract(state, "[a-zA-Z ]+")) |> 
+    arrange(state)
+}
+
+read_04 <- function(path, skip) {
+  year <- get_year(path)
+  
+  read_csv(path, skip = skip) |> 
+    select(1:4) |> 
+    set_names("state", as.character(year), as.character(year - 1), "1995") |> 
+    filter(!is.na(state)) |> 
+    slice(5:13, 15:26, 28:43, 45:57) |> 
+    mutate(state = str_extract(state, "[a-zA-Z ]+")) |> 
+    arrange(state)
+}
+
+read_04_02 <- function(path, skip, year_col) {
+  year <- get_year(path)
+
+  read_csv(path, skip = skip) |> 
+    select(1, all_of(year_col)) |> 
+    set_names("state", as.character(year), as.character(year - 1)) |> 
+    na.omit() |> 
+    mutate(state = state |> 
+             str_extract("[a-zA-Z ]+") |> 
+             str_trim()
+           ) |> 
+    filter(!state %in% non_state) |> 
+    arrange(state)
+}
+```
+
+## 3 csv files created
+
+```{r}
+#| label: imprison_rate
+#| message: false
+#| warning: false
+
+p21stt07 <- read_t07("data/p21stt07.csv", 12, 7)
+p20stt07 <- read_t07("data/p20stt07.csv", 12, 7)
+p19t07 <- read_t07("data/p19t07.csv", 12, 9)
+p18t07 <- read_t07("data/p18t07.csv", 12, 9)
+p17t06 <- read_t07("data/p17t06.csv", 11, 8)
+p16t07 <- read_t07("data/p16t07.csv", 12, 8)
+p15t06 <- read_t07("data/p15t06.csv", 11, 8)
+p14t06 <- read_t07("data/p14t06.csv", 11, 8)
+p13t06 <- read_t07("data/p13t06.csv", 12, 8)
+p11at03 <- read_t07("data/p11at03.csv", 11, 7)
+
+p10at09 <- read_at09("data/p10at09.csv", 11, 6)
+p09at09 <- read_at09("data/p09at09.csv", 11, 7)
+p08at10 <- read_at09("data/p08at10.csv", 12, 9)
+
+p07at09 <- read_at09_1("data/p07at09.csv", 11)
+
+imprison_rate <- bind_cols(p08at10[1:2], p09at09[, 2],
+                           p10at09[, 2], p11at03[, 2:3],
+          p13t06[, 2], p14t06[, 2], p15t06[, 2], p16t07[, 2],
+          p17t06[, 2], p18t07[, 2], p19t07[, 2],
+          p20stt07[, 2], p21stt07[, 2:3])
+
+write_csv(imprison_rate, "imprison_rate.csv")
+```
+
+```{r}
+#| label: sentenced_prisoners
+#| message: false
+#| warning: false
+
+p21stt04 <- read_t07("data/p21stt04.csv", 11, 6)
+p20stt04 <- read_t07("data/p20stt04.csv", 11, 6)
+p19t04 <- read_t07("data/p19t04.csv", 11, 7)
+p18t04 <- read_t07("data/p18t04.csv", 11, 7)
+p17t04 <- read_t07("data/p17t04.csv", 11, 7)
+p16t04 <- read_t07("data/p16t04.csv", 12, 7)
+p15t04 <- read_t07("data/p15t04.csv", 11, 7)
+p14t04 <- read_t07("data/p14t04.csv", 11, 7)
+p13t04 <- read_t07("data/p13t04.csv", 12, 7)
+p11at02 <- read_at02("data/p11at02.csv", 11, 3:6)
+p10at01 <- read_at02("data/p10at01.csv", 11, 3:5)
+p09at01 <- read_at02("data/p09at01.csv", 11, 3:5) |> 
+  set_names("state", "2000", "2008", "2009")
+p08at05 <- read_at02("data/p08at05.csv", 11, c(3, 5, 7)) |> 
+  set_names("state", "2000", "2007", "2008")
+p07at03 <- read_at02("data/p07at03.csv", 11, 3:5)
+p06at06 <- read_at02("data/p06at06.csv", 11, 3:5)|> 
+  set_names("state", "2000", "2005", "2006")
+
+p05t04 <- read_04("data/p05t04.csv", 11)
+p0404 <- read_04("data/p0404.csv", 12)
+p0304 <- read_04_02("data/p0304.csv", 12, c(2, 4))
+p0204 <- read_04("data/p0204.csv", 12)
+p0104 <- read_04_02("data/p0104.csv", 15, c(2, 3))
+p0003 <- read_04_02("data/p0003.csv", 14, c(7, 8))
+p9905 <- read_04_02("data/p9905.csv", 16, c(9, 11))
+p9803 <- read_04_02("data/P9803.csv", 15, c(6, 7))
+
+prison <- bind_cols(p9803[, c(1, 3)], p9905[, 3], p0003[, 3],
+          p0104[, 3], p0204[, 3], p0304[, 3],
+          p0404[, 3], p05t04[, 3], p06at06[, 3],
+          p07at03[, 3], p08at05[, 3:4],
+          p11at02[, 3:5], p13t04[, 2:3],
+          p15t04[, 2], p16t04[, 2], p17t04[, 2],
+          p18t04[, 2], p19t04[, 2], p20stt04[, 2],
+          p21stt04[, 2:3])
+
+write_csv(prison, "sentenced_prisoners.csv")
+```
+
+```{r}
+#| label: population
+#| message: false
+#| warning: false
+
+lines <- readLines("data/st-99-03.txt")
+
+st_94_99 <- read_fwf(I(lines[c(10, 14:78)]), skip = 1) |> 
+  select(-1) |> 
+  set_names(c("state", "1999", "1998", "1997", "1996", "1995", "1994")) |> 
+  slice(15:22, 24:65)
+
+st_90_93 <- read_fwf(I(lines[c(84, 88:152)]), skip = 1) |> 
+  select(-1, -7) |> 
+  set_names(c("state", "1993", "1992", "1991", "1990")) |> 
+  slice(15:22, 24:65)
+
+st_00_09 <- st_est00int_01 <- read_csv("data/st-est00int-01.csv", 
+    skip = 3) |> 
+  select(-2, -13, -14) |> 
+  slice(6:13, 15:56) |> 
+  rename(state = ...1) |> 
+  mutate(state = str_remove(state, "\\."))
+
+st_10_19 <- read_excel("data/nst-est2020.xlsx",
+                       range = "A4:O60") |> 
+  select(1, 4:13) |> 
+  slice(6:13, 15:56) |> 
+  rename(state = ...1) |> 
+  mutate(state = str_remove(state, "\\."))
+
+st_20_22 <- read_excel("data/NST-EST2022-POP.xlsx",
+                       range = "A4:E60") |> 
+  select(-2) |> 
+  slice(6:13, 15:56) |> 
+  rename(state = ...1) |> 
+  mutate(state = str_remove(state, "\\."))
+
+population <- bind_cols(st_90_93, st_94_99[, -1], st_00_09[, -1],
+          st_10_19[, -1], st_20_22[, -1])
+
+write_csv(population, "population.csv")
+```
+
+```{r}
+#| label: year_ranges
+
+imprison_rate_long <- imprison_rate |> 
+  pivot_longer(-state, names_to = "year", values_to = "imprison_rate") |> 
+  mutate(year = as.numeric(year))
+
+prison_long <- prison |> 
+  pivot_longer(-state, names_to = "year", values_to = "prisoners") |> 
+  mutate(year = as.numeric(year)) |> 
+  arrange(state, year)
+
+pop_long <- population |> 
+  pivot_longer(-state, names_to = "year", values_to = "pop") |> 
+  mutate(year = as.numeric(year)) |> 
+  filter(between(year, 1997, 2021)) |> 
+  arrange(state, year)
+
+prison_pop <- bind_cols(prison_long, pop_long[, 3]) |> 
+  mutate(imprison_rate = prisoners / pop * 1e5)
+
+yr1 <- range(imprison_rate_long$year)
+yr2 <- range(prison_long$year)
+yr3 <- range(pop_long$year)
+```
+
+From files in `data` directory, I have made 3 csv files:
+
+- imprison_rate.csv: Number of sentenced prisoners per 100,000 residents by state and year from `r yr1[1]` to `r yr1[2]`,
+
+- sentenced_prisoners.csv: Number of (more than one year) sentenced prisoners by state and year from `r yr2[1]` to `r yr2[2]`, and
+
+- population.csv: Resident population by state and year from `r yr3[1]` to `r yr3[2]`.
+
+## Plot
+
+```{r}
+#| label: plot_rates
+#| fig-width: 6
+#| fig-asp: 0.618
+#| out-width: "70%"
+#| warning: false
+
+imprison_rate_long |> 
+  ggplot(aes(year, imprison_rate)) +
+  geom_line(aes(color = state), show.legend = FALSE) +
+  labs(x = NULL, y = "Sentenced prisoners per 100K residents",
+       title = "Imprison rate",
+       subtitle = "from imprison_rate.csv")
+
+prison_pop |> 
+  ggplot(aes(year, imprison_rate)) +
+  geom_line(aes(color = state), show.legend = FALSE) +
+  labs(x = NULL, y = "Sentenced prisoners per 100K residents",
+       title = "Imprison rate",
+       subtitle = "calculated from sentenced_prisoners.csv and population.csv")
+```
+
+```{r}
+#| label: plot_numbers
+#| fig-width: 6
+#| fig-asp: 0.618
+#| out-width: "70%"
+#| warning: false
+
+prison_pop |> 
+  ggplot(aes(year, prisoners)) +
+  geom_line(aes(color = state), show.legend = FALSE) +
+  labs(x = NULL, y = "Persons",
+       title = "Sentenced prisoners",
+       subtitle = "from sentenced_prisoners.csv")
+
+prison_pop |> 
+  ggplot(aes(year, pop)) +
+  geom_line(aes(color = state), show.legend = FALSE) +
+  labs(x = NULL, y = "Persons",
+       title = "Resident population",
+       subtitle = "from population.csv")
+```
