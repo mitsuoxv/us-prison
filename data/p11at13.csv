@@ -1,0 +1,76 @@
+Bureau of Justice Statistics,,,,,,,,
+Filename: p11at13.csv,,,,,,,,
+"Appendix table 13. Sentenced prisoners admitted and released from state or federal jurisdiction, by type, December 31, 2011",,,,,,,,
+Report title: Prisoners in 2011 NCJ 239808,,,,,,,,
+Data source(s): National Prisoner Statistics Program,,,,,,,,
+Author(s): E. Ann Carson and William J. Sabol,,,,,,,,
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 ,,,,,,,,
+Date of version: 12/05/2012,,,,,,,,
+ ,,,,,,,,
+"Appendix table 13. Sentenced prisoners admitted and released from state or federal jurisdiction, by type, December 31, 2011",,,,,,,,
+,,Admissions/a,,,,Releases/b,,
+Jurisdiction,,Total,New court commitments/c,"Parole violators/c,d",,Total,"Conditional releases/c,e","Unconditional releases/c,f"
+,U.S. total,"668,800","455,068","205,787",,"688,384","475,188","203,000"
+Federal,,"60,634","55,817","4,816",,"55,239",649,"54,163"
+State,,"608,166","399,251","200,971",,"633,145","474,539","148,837"
+,Alabama,"11,387","9,302","1,242",,"11,052","6,835","4,005"
+,"Alaska/c,g","1,038",/,/,,911,/,/
+,Arizona,"13,030","10,409","2,518",,"13,149","10,193","2,196"
+,Arkansas,"7,059","5,516","1,543",,"7,252","6,874",325
+,California,"96,669","36,376","60,293",,"109,467","95,541","13,676"
+,Colorado,"9,455","5,133","4,319",,"9,367","7,708","1,223"
+,Connecticut/g,"5,881","4,818",908,,"6,379","2,611","3,737"
+,Delaware/g,"3,031","2,714",302,,"3,600","3,462",44
+,Florida,"33,399","32,358",101,,"34,673","11,914","22,440"
+,Georgia,"14,877","13,254","1,623",,"15,309","11,117","4,040"
+,Hawaii/g,"1,366",692,674,,"1,404",619,306
+,Idaho,"3,531","3,531",/,,"4,079","3,580",488
+,Illinois,"31,167","20,068","10,908",,"31,155","25,229","5,797"
+,Indiana,"18,389","9,915","8,231",,"18,422","16,533","1,814"
+,Iowa,"4,709","3,747",849,,"5,105","3,168","1,723"
+,Kansas,"4,954","3,831","1,123",,"4,671","3,483","1,161"
+,Kentucky,"15,479","11,079","4,400",,"14,571","9,878","4,608"
+,Louisiana,"16,161","11,378","4,492",,"16,580","14,977","1,426"
+,Maine,921,588,333,,"1,049",345,696
+,Maryland,"9,811","6,214","3,597",,"9,829","8,288","1,484"
+,Massachusetts,"2,856","2,504",352,,"2,484",438,"2,018"
+,Michigan,"13,165","7,232","3,418",,"14,374","11,831","1,126"
+,Minnesota,"7,214","4,462","2,752",,"7,734","6,686","1,030"
+,Mississippi,"8,410","6,641","1,744",,"8,197","6,540","1,282"
+,Missouri,"17,979","9,416","8,558",,"17,823","16,122","1,607"
+,Montana,"2,063","1,603",460,,"2,101","1,802",287
+,Nebraska,"2,410","2,092",315,,"2,391","1,533",836
+,Nevada,"5,545","4,502",968,,"5,910","3,730","2,142"
+,New Hampshire,"1,616",789,808,,"1,881","1,763",100
+,New Jersey,"10,110","7,515","2,595",,"11,485","5,440","5,875"
+,New Mexico,"3,491","2,297","1,194",,"3,529","2,451","1,061"
+,New York,"23,257","14,167","9,020",,"24,460","21,560","2,661"
+,North Carolina,"11,523","11,011",512,,"11,878","3,354","8,463"
+,North Dakota,950,643,306,,"1,013",814,191
+,Ohio,"22,150","19,720","2,408",,"22,899","10,590","12,183"
+,Oklahoma,"7,456","5,099","2,357",,"7,694","3,451","4,140"
+,Oregon,"5,313","3,692","1,405",,"4,567","4,327",10
+,Pennsylvania,"18,175","10,934","6,895",,"17,698","13,425","4,099"
+,Rhode Island/g,850,695,155,,960,333,623
+,South Carolina,"7,323","5,642","1,635",,"7,912","4,466","3,353"
+,South Dakota,"2,820","1,247",779,,"2,732","2,381",337
+,Tennessee,"14,283","8,906","5,364",,"14,961","10,213","4,698"
+,Texas,"73,444","49,636","23,422",,"74,544","60,255","12,158"
+,Utah,"3,258","2,035","1,223",,"3,206","1,816","1,371"
+,Vermont/g,"2,044",640,"1,404",,"2,062","1,719",343
+,Virginia,"11,140","11,011",129,,"12,345","10,854","1,365"
+,Washington,"16,335","7,368","8,960",,"16,412","14,195","2,176"
+,West Virginia,"3,404","1,700","1,207",,"3,257","1,680","1,058"
+,Wisconsin,"6,411","3,848","2,562",,"7,825","7,366",415
+,Wyoming,857,739,118,,787,542,242
+"Note: As of December 31, 2001, sentenced felons from the District of Columbia are the responsibility of the Federal Bureau of Prisons.",,,,,,,,
+/Not reported.,,,,,,,,
+"a/Counts based on prisoners with a sentence of more than 1 year. Counts exclude transfers, escapes, and those absent without leave (AWOL). Totals include other conditional release violators, returns from appeal or bone, and other admissions. See Methodology.",,,,,,,,
+"b/Counts based on prisoners with a sentence of more than 1 year. Counts exclude transfers, escapes, and those absent without leave (AWOL). Totals include deaths, releases to appeal or bond, and other releases. See Methodology.",,,,,,,,
+c/Alaska did not report type of admission or release. Counts of admission and release types for national and state totals include estimations for Alaska based on previous years’ data.,,,,,,,,
+d/Includes all conditional release violators returned to prison for either violations of conditions of release or for new crimes.,,,,,,,,
+"e/Includes releases to probation, supervised mandatory releases, and other unspecified conditional releases.",,,,,,,,
+"f/Includes expirations of sentence, communtations, and other unconditional releases.",,,,,,,,
+g/Prisons and jails form one integrated system. Data include total jail and prison populations.,,,,,,,,
+"h/Not applicable. As of December 31, 2001, sentenced felons from the District of Columbia are the responsibility of the Federal Bureau of Prisons.",,,,,,,,
+"Source: Bureau of Justice Statistics, National Prisoner Statistics Program, 2011.",,,,,,,,

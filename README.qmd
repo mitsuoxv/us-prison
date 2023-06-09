@@ -43,23 +43,25 @@ get_year <- function(path) {
   if_else(year < 50, year + 2000, year + 1900)
 }
 
-read_t07 <- function(path, skip, n_col) {
+read_t07 <- function(path, skip, year_col) {
   year <- get_year(path)
   
-  read_csv(path, skip = skip, na = na_chars) |> 
-    select(2, 3, all_of(n_col)) |> 
+  lines <- readLines(path) |>
+    str_remove_all("�")
+  
+  read_csv(I(lines), skip = skip, na = na_chars) |> 
+    select(2, all_of(year_col)) |> 
     set_names("state", as.character(year - 1), as.character(year)) |> 
     slice(4:53) |> 
     mutate(state = str_extract(state, "[a-zA-Z ]+"))
 }
 
 read_at02 <- function(path, skip, year_col) {
-#  year <- get_year(path)
   
   lines <- readLines(path) |>
     str_remove_all("%")
   
-read_csv(I(lines), skip = skip, na = na_chars) |> 
+  read_csv(I(lines), skip = skip, na = na_chars) |> 
     select(2, all_of(year_col)) |> 
     rename(state = ...2) |> 
     filter(!is.na(state)) |> 
@@ -120,23 +122,23 @@ read_04_02 <- function(path, skip, year_col) {
 }
 ```
 
-## 4 csv files created
+## 6 csv files created
 
 ```{r}
 #| label: imprison_rate
 #| message: false
 #| warning: false
 
-p21stt07 <- read_t07("data/p21stt07.csv", 12, 7)
-p20stt07 <- read_t07("data/p20stt07.csv", 12, 7)
-p19t07 <- read_t07("data/p19t07.csv", 12, 9)
-p18t07 <- read_t07("data/p18t07.csv", 12, 9)
-p17t06 <- read_t07("data/p17t06.csv", 11, 8)
-p16t07 <- read_t07("data/p16t07.csv", 12, 8)
-p15t06 <- read_t07("data/p15t06.csv", 11, 8)
-p14t06 <- read_t07("data/p14t06.csv", 11, 8)
-p13t06 <- read_t07("data/p13t06.csv", 12, 8)
-p11at03 <- read_t07("data/p11at03.csv", 11, 7)
+p21stt07 <- read_t07("data/p21stt07.csv", 12, c(3, 7))
+p20stt07 <- read_t07("data/p20stt07.csv", 12, c(3, 7))
+p19t07 <- read_t07("data/p19t07.csv", 12, c(3, 9))
+p18t07 <- read_t07("data/p18t07.csv", 12, c(3, 9))
+p17t06 <- read_t07("data/p17t06.csv", 11, c(3, 8))
+p16t07 <- read_t07("data/p16t07.csv", 12, c(3, 8))
+p15t06 <- read_t07("data/p15t06.csv", 11, c(3, 8))
+p14t06 <- read_t07("data/p14t06.csv", 11, c(3, 8))
+p13t06 <- read_t07("data/p13t06.csv", 12, c(3, 8))
+p11at03 <- read_t07("data/p11at03.csv", 11, c(3, 7))
 
 p10at09 <- read_at09("data/p10at09.csv", 11, 6)
 p09at09 <- read_at09("data/p09at09.csv", 11, 7)
@@ -158,15 +160,15 @@ write_csv(imprison_rate, "imprison_rate.csv")
 #| message: false
 #| warning: false
 
-p21stt02 <- read_t07("data/p21stt02.csv", 11, 6)
-p20stt02 <- read_t07("data/p20stt02.csv", 11, 6)
-p19t02 <- read_t07("data/p19t02.csv", 11, 7)
-p18t02 <- read_t07("data/p18t02.csv", 11, 7)
-p17t02 <- read_t07("data/p17t02.csv", 11, 7)
-p16t02 <- read_t07("data/p16t02.csv", 12, 7)
-p15t02 <- read_t07("data/p15t02.csv", 12, 7)
-p14t02 <- read_t07("data/p14t02.csv", 11, 7)
-p13t02 <- read_t07("data/p13t02.csv", 12, 7)
+p21stt02 <- read_t07("data/p21stt02.csv", 11, c(3, 6))
+p20stt02 <- read_t07("data/p20stt02.csv", 11, c(3, 6))
+p19t02 <- read_t07("data/p19t02.csv", 11, c(3, 7))
+p18t02 <- read_t07("data/p18t02.csv", 11, c(3, 7))
+p17t02 <- read_t07("data/p17t02.csv", 11, c(3, 7))
+p16t02 <- read_t07("data/p16t02.csv", 12, c(3, 7))
+p15t02 <- read_t07("data/p15t02.csv", 12, c(3, 7))
+p14t02 <- read_t07("data/p14t02.csv", 11, c(3, 7))
+p13t02 <- read_t07("data/p13t02.csv", 12, c(3, 7))
 p11at01 <- read_at02("data/p11at01.csv", 11, 3:5)
 p10at01 <- read_at02("data/p10at01.csv", 11, 3:5)
 p09at01 <- read_at02("data/p09at01.csv", 11, 3:5) |> 
@@ -206,15 +208,15 @@ write_csv(prisoners, "prisoners.csv")
 #| message: false
 #| warning: false
 
-p21stt04 <- read_t07("data/p21stt04.csv", 11, 6)
-p20stt04 <- read_t07("data/p20stt04.csv", 11, 6)
-p19t04 <- read_t07("data/p19t04.csv", 11, 7)
-p18t04 <- read_t07("data/p18t04.csv", 11, 7)
-p17t04 <- read_t07("data/p17t04.csv", 11, 7)
-p16t04 <- read_t07("data/p16t04.csv", 12, 7)
-p15t04 <- read_t07("data/p15t04.csv", 11, 7)
-p14t04 <- read_t07("data/p14t04.csv", 11, 7)
-p13t04 <- read_t07("data/p13t04.csv", 12, 7)
+p21stt04 <- read_t07("data/p21stt04.csv", 11, c(3, 6))
+p20stt04 <- read_t07("data/p20stt04.csv", 11, c(3, 6))
+p19t04 <- read_t07("data/p19t04.csv", 11, c(3, 7))
+p18t04 <- read_t07("data/p18t04.csv", 11, c(3, 7))
+p17t04 <- read_t07("data/p17t04.csv", 11, c(3, 7))
+p16t04 <- read_t07("data/p16t04.csv", 12, c(3, 7))
+p15t04 <- read_t07("data/p15t04.csv", 11, c(3, 7))
+p14t04 <- read_t07("data/p14t04.csv", 11, c(3, 7))
+p13t04 <- read_t07("data/p13t04.csv", 12, c(3, 7))
 p11at02 <- read_at02("data/p11at02.csv", 11, 3:6)
 p10at04 <- read_at02("data/p10at04.csv", 11, 3:5)
 p09at04 <- read_at02("data/p09at04.csv", 11, 3:5) |> 
@@ -247,6 +249,72 @@ sentenced_prisoners <- sentenced_prisoners |>
   mutate(state = state.name)
 
 write_csv(sentenced_prisoners, "sentenced_prisoners.csv")
+```
+
+```{r}
+#| label: admissions
+#| message: false
+#| warning: false
+
+p21stt08 <- read_t07("data/p21stt08.csv", 10, 3:4)
+p20stt08 <- read_t07("data/p20stt08.csv", 10, 3:4)
+p19t08 <- read_t07("data/p19t08.csv", 11, 3:4)
+p18t08 <- read_t07("data/p18t08.csv", 11, 3:4)
+p17t07 <- read_t07("data/p17t07.csv", 11, 3:4)
+p16t08 <- read_t07("data/p16t08.csv", 12, 3:4)
+p15t07 <- read_t07("data/p15t07.csv", 11, 3:4)
+p14t07 <- read_t07("data/p14t07.csv", 14, 3:4)
+p13t09 <- read_t07("data/p13t09.csv", 12, 3:4)
+p11at13 <- read_at02("data/p11at13.csv", 11, 3) |> 
+  set_names("state", "2011")
+p10at10a <- read_at02("data/p10at10a.csv", 10, 3:5)
+p09at10 <- read_at02("data/p09at10.csv", 11, 3:5) |> 
+  set_names("state", "2000", "2008", "2009")
+p08at11 <- read_at02("data/p08at11.csv", 11, 3:5) |> 
+  set_names("state", "2000", "2007", "2008")
+p07at04 <- read_at02("data/p07at04.csv", 11, 3:5) |> 
+  set_names("state", "2000", "2006", "2007")
+
+admissions <- bind_cols(p07at04[, c(1, 3)], p08at11[, 3], p09at10[, 3],
+          p10at10a[, 3:4], p11at13[, 2], p13t09[, 2:3],
+          p15t07[, 2], p16t08[, 2], p17t07[, 2],
+          p18t08[, 2], p19t08[, 2], p20stt08[, 2],
+          p21stt08[, 2:3])
+
+write_csv(admissions, "admissions.csv")
+```
+
+```{r}
+#| label: releases
+#| message: false
+#| warning: false
+
+p21stt09 <- read_t07("data/p21stt09.csv", 10, 3:4)
+p20stt09 <- read_t07("data/p20stt09.csv", 10, 3:4)
+p19t08r <- read_t07("data/p19t08.csv", 11, 10:11)
+p18t08r <- read_t07("data/p18t08.csv", 11, 10:11)
+p17t07r <- read_t07("data/p17t07.csv", 11, 10:11)
+p16t08r <- read_t07("data/p16t08.csv", 12, 10:11)
+p15t07r <- read_t07("data/p15t07.csv", 11, 10:11)
+p14t07r <- read_t07("data/p14t07.csv", 14, 10:11)
+p13t09r <- read_t07("data/p13t09.csv", 12, 10:11)
+p11at13r <- read_at02("data/p11at13.csv", 11, 8) |> 
+  set_names("state", "2011")
+p10at10b <- read_at02("data/p10at10b.csv", 10, 3:5)
+p09at10r <- read_at02("data/p09at10.csv", 11, 11:13) |> 
+  set_names("state", "2000", "2008", "2009")
+p08at11r <- read_at02("data/p08at11.csv", 11, 12:14) |> 
+  set_names("state", "2000", "2007", "2008")
+p07at04r <- read_at02("data/p07at04.csv", 11, 10:12) |> 
+  set_names("state", "2000", "2006", "2007")
+
+releases <- bind_cols(p07at04r[, c(1, 3)], p08at11r[, 3], p09at10r[, 3],
+          p10at10b[, 3:4], p11at13r[, 2], p13t09r[, 2:3],
+          p15t07r[, 2], p16t08r[, 2], p17t07r[, 2],
+          p18t08r[, 2], p19t08r[, 2], p20stt09[, 2],
+          p21stt09[, 2:3])
+
+write_csv(releases, "releases.csv")
 ```
 
 ```{r}
@@ -310,6 +378,16 @@ sentenced_prisoners_long <- sentenced_prisoners |>
   mutate(year = as.numeric(year)) |> 
   arrange(state, year)
 
+admissions_long <- admissions |> 
+  pivot_longer(-state, names_to = "year", values_to = "prisoners") |> 
+  mutate(year = as.numeric(year)) |> 
+  arrange(state, year)
+
+releases_long <- releases |> 
+  pivot_longer(-state, names_to = "year", values_to = "prisoners") |> 
+  mutate(year = as.numeric(year)) |> 
+  arrange(state, year)
+
 pop_long <- population |> 
   pivot_longer(-state, names_to = "year", values_to = "pop") |> 
   mutate(year = as.numeric(year)) |> 
@@ -322,16 +400,22 @@ prison_pop <- bind_cols(sentenced_prisoners_long, pop_long[, 3]) |>
 yr1 <- range(imprison_rate_long$year)
 yr4 <- range(prisoners_long$year)
 yr2 <- range(sentenced_prisoners_long$year)
+yr5 <- range(admissions_long$year)
+yr6 <- range(releases_long$year)
 yr3 <- range(pop_long$year)
 ```
 
-From files in `data` directory, I have made 4 csv files:
+From files in `data` directory, I have made 6 csv files:
 
 - imprison_rate.csv: Number of sentenced prisoners per 100,000 residents by state and year from `r yr1[1]` to `r yr1[2]`,
 
 - prisoners.csv: Number of prisoners by state and year from `r yr4[1]` to `r yr4[2]`,
 
-- sentenced_prisoners.csv: Number of (more than one year) sentenced prisoners by state and year from `r yr2[1]` to `r yr2[2]`, and
+- sentenced_prisoners.csv: Number of (more than one year) sentenced prisoners by state and year from `r yr2[1]` to `r yr2[2]`,
+
+- admissions.csv: Number of admitted sentenced prisoners by state and year from `r yr5[1]` to `r yr5[2]`,
+
+- releases.csv: Number of released sentenced prisoners by state and year from `r yr6[1]` to `r yr6[2]`, and
 
 - population.csv: Resident population by state and year from `r yr3[1]` to `r yr3[2]`.
 
@@ -386,4 +470,26 @@ prison_pop |>
   labs(x = NULL, y = "Persons",
        title = "Resident population",
        subtitle = "from population.csv")
+```
+
+```{r}
+#| label: plot_admissions
+#| fig-width: 6
+#| fig-asp: 0.618
+#| out-width: "70%"
+#| warning: false
+
+admissions_long |> 
+  ggplot(aes(year, prisoners)) +
+  geom_line(aes(color = state), show.legend = FALSE) +
+  labs(x = NULL, y = "Persons",
+       title = "Admitted sentenced prisoners",
+       subtitle = "from admissions.csv")
+
+releases_long |> 
+  ggplot(aes(year, prisoners)) +
+  geom_line(aes(color = state), show.legend = FALSE) +
+  labs(x = NULL, y = "Persons",
+       title = "Released sentenced prisoners",
+       subtitle = "from releases.csv")
 ```
