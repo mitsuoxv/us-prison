@@ -2,7 +2,7 @@
 Mitsuo Shiota
 2023-06-07
 
-Updated: 2023-06-09
+Updated: 2023-06-10
 
 ## Data source
 
@@ -17,7 +17,7 @@ population from [Census
 Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html),
 and saved them in `data` directory.
 
-## 6 csv files created
+## 7 csv files created
 
 From files in `data` directory, I have made 6 csv files:
 
@@ -34,7 +34,11 @@ From files in `data` directory, I have made 6 csv files:
   year from 2006 to 2021,
 
 - releases.csv: Number of released sentenced prisoners by state and year
-  from 2006 to 2021, and
+  from 2006 to 2021,
+
+- custody.csv: Number of inmates held in custody of facilities operated
+  by the state from 2007 to 2021 (note: lacks 2012 data, and includes
+  some NAs), and
 
 - population.csv: Resident population by state and year from 1997 to
   2021.
@@ -60,4 +64,7 @@ style="width:70.0%" />
 style="width:70.0%" />
 
 <img src="README_files/figure-commonmark/plot_admissions-2.png"
+style="width:70.0%" />
+
+<img src="README_files/figure-commonmark/plot_admissions-3.png"
 style="width:70.0%" />
